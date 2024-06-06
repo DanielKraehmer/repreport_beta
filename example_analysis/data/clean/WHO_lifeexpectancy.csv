@@ -1,0 +1,2329 @@
+dim_geo_code_m49,geo_name_short,dim_time,dim_sex,value_numeric
+24,Angola,2000,Total,42.873779
+24,Angola,2000,Female,44.74432
+8,Albania,2000,Female,67.687332
+954,Americas,2000,Male,62.483082
+784,United Arab Emirates,2000,Total,63.85107
+784,United Arab Emirates,2000,Female,63.755692
+32,Argentina,2000,Total,65.144913
+32,Argentina,2000,Female,67.4618
+36,Australia,2000,Male,67.164238
+40,Austria,2000,Total,68.177788
+31,Azerbaijan,2000,Total,58.49506
+108,Burundi,2000,Total,38.13007
+108,Burundi,2000,Male,36.643108
+204,Benin,2000,Total,49.588242
+854,Burkina Faso,2000,Male,43.904251
+50,Bangladesh,2000,Total,57.047729
+100,Bulgaria,2000,Female,66.0047
+100,Bulgaria,2000,Male,61.18507
+44,Bahamas,2000,Total,62.68615
+44,Bahamas,2000,Male,60.57037
+70,Bosnia and Herzegovina,2000,Total,66.168831
+112,Belarus,2000,Total,60.821609
+52,Barbados,2000,Male,64.611191
+96,Brunei Darussalam,2000,Female,64.758751
+72,Botswana,2000,Male,39.184448
+124,Canada,2000,Female,70.644913
+152,Chile,2000,Male,65.434593
+156,China,2000,Male,62.713329
+384,Côte d'Ivoire,2000,Female,44.95908
+120,Cameroon,2000,Total,46.052441
+4,Afghanistan,2000,Total,46.763969
+953,Africa,2000,Male,45.03009
+28,Antigua and Barbuda,2000,Male,63.93232
+36,Australia,2000,Total,68.572647
+31,Azerbaijan,2000,Female,60.414211
+56,Belgium,2000,Total,67.842422
+56,Belgium,2000,Female,69.518753
+854,Burkina Faso,2000,Total,44.879108
+50,Bangladesh,2000,Male,56.6199
+100,Bulgaria,2000,Total,63.53907
+48,Bahrain,2000,Total,61.8783
+48,Bahrain,2000,Male,61.979759
+84,Belize,2000,Total,62.288841
+84,Belize,2000,Female,64.572632
+68,Bolivia (Plurinational State of),2000,Female,58.1782
+76,Brazil,2000,Total,61.664951
+76,Brazil,2000,Female,63.82217
+96,Brunei Darussalam,2000,Male,63.115528
+72,Botswana,2000,Total,40.084461
+72,Botswana,2000,Female,41.395149
+140,Central African Republic,2000,Male,38.192169
+124,Canada,2000,Total,69.416107
+756,Switzerland,2000,Total,69.288467
+756,Switzerland,2000,Female,70.565514
+156,China,2000,Total,63.708469
+120,Cameroon,2000,Male,45.395969
+180,Democratic Republic of the Congo,2000,Total,45.25779
+180,Democratic Republic of the Congo,2000,Male,44.131779
+174,Comoros,2000,Male,53.150471
+132,Cabo Verde,2000,Total,61.981819
+132,Cabo Verde,2000,Female,64.244057
+192,Cuba,2000,Female,68.142303
+262,Djibouti,2000,Female,53.76836
+262,Djibouti,2000,Male,51.76263
+180,Democratic Republic of the Congo,2000,Female,46.424629
+178,Congo,2000,Male,45.48362
+132,Cabo Verde,2000,Male,59.441021
+188,Costa Rica,2000,Male,66.842407
+192,Cuba,2000,Male,66.163673
+953,Africa,2000,Total,45.803841
+953,Africa,2000,Female,46.619808
+24,Angola,2000,Male,41.18177
+954,Americas,2000,Female,65.685211
+784,United Arab Emirates,2000,Male,63.695499
+32,Argentina,2000,Male,62.828152
+51,Armenia,2000,Male,61.188148
+28,Antigua and Barbuda,2000,Total,65.530243
+28,Antigua and Barbuda,2000,Female,67.04361
+36,Australia,2000,Female,69.973038
+108,Burundi,2000,Female,39.675659
+56,Belgium,2000,Male,66.12458
+48,Bahrain,2000,Female,61.627239
+70,Bosnia and Herzegovina,2000,Female,67.974648
+70,Bosnia and Herzegovina,2000,Male,64.209244
+112,Belarus,2000,Female,65.159172
+112,Belarus,2000,Male,56.628601
+84,Belize,2000,Male,60.335621
+76,Brazil,2000,Male,59.596668
+52,Barbados,2000,Female,67.216293
+140,Central African Republic,2000,Total,38.693432
+140,Central African Republic,2000,Female,39.266171
+756,Switzerland,2000,Male,67.872841
+152,Chile,2000,Total,66.995598
+152,Chile,2000,Female,68.470367
+384,Côte d'Ivoire,2000,Male,43.29557
+178,Congo,2000,Total,45.353359
+178,Congo,2000,Female,45.182499
+174,Comoros,2000,Total,53.766689
+174,Comoros,2000,Female,54.377171
+188,Costa Rica,2000,Total,68.035919
+196,Cyprus,2000,Total,69.125557
+203,Czechia,2000,Female,68.253059
+276,Germany,2000,Total,68.46447
+262,Djibouti,2000,Total,52.728249
+214,Dominican Republic,2000,Male,62.122841
+208,Denmark,2000,Total,67.567238
+208,Denmark,2000,Male,66.731369
+12,Algeria,2000,Female,62.796452
+218,Ecuador,2000,Total,65.248413
+818,Egypt,2000,Male,60.272789
+192,Cuba,2000,Total,67.124489
+203,Czechia,2000,Total,65.938049
+208,Denmark,2000,Female,68.340797
+218,Ecuador,2000,Male,63.897259
+818,Egypt,2000,Total,61.206371
+12,Algeria,2000,Total,62.709949
+957,Eastern Mediterranean,2000,Total,56.603401
+957,Eastern Mediterranean,2000,Male,56.284721
+233,Estonia,2000,Male,58.54023
+231,Ethiopia,2000,Total,44.330311
+232,Eritrea,2000,Total,47.00956
+232,Eritrea,2000,Female,49.855591
+232,Eritrea,2000,Male,44.59597
+724,Spain,2000,Total,69.062828
+724,Spain,2000,Female,70.989639
+233,Estonia,2000,Total,62.56221
+233,Estonia,2000,Female,66.49778
+956,Europe,2000,Total,63.652111
+246,Finland,2000,Female,69.644897
+242,Fiji,2000,Female,59.466122
+231,Ethiopia,2000,Male,43.857399
+246,Finland,2000,Total,67.778107
+242,Fiji,2000,Total,58.085201
+250,France,2000,Male,67.411461
+266,Gabon,2000,Female,51.39027
+826,United Kingdom of Great Britain and Northern Ireland,2000,Female,68.571289
+268,Georgia,2000,Male,59.218208
+288,Ghana,2000,Female,52.463871
+324,Guinea,2000,Total,47.537949
+1,World,2000,Male,57.127331
+818,Egypt,2000,Female,62.164558
+724,Spain,2000,Male,67.135017
+956,Europe,2000,Female,66.388527
+246,Finland,2000,Male,65.788261
+826,United Kingdom of Great Britain and Northern Ireland,2000,Male,66.500732
+266,Gabon,2000,Total,50.50198
+268,Georgia,2000,Total,61.941181
+268,Georgia,2000,Female,64.603554
+288,Ghana,2000,Total,51.898022
+624,Guinea-Bissau,2000,Male,42.59795
+4,Afghanistan,2000,Female,46.583439
+4,Afghanistan,2000,Male,46.931129
+226,Equatorial Guinea,2000,Male,45.81385
+300,Greece,2000,Male,67.463547
+308,Grenada,2000,Female,66.13266
+320,Guatemala,2000,Male,55.600922
+328,Guyana,2000,Total,54.96851
+340,Honduras,2000,Total,61.222469
+340,Honduras,2000,Female,61.435162
+340,Honduras,2000,Male,61.075371
+191,Croatia,2000,Male,62.891411
+332,Haiti,2000,Total,49.997581
+324,Guinea,2000,Female,47.809841
+1,World,2000,Total,58.336491
+1,World,2000,Female,59.59816
+308,Grenada,2000,Male,61.46682
+320,Guatemala,2000,Female,60.07415
+8,Albania,2000,Total,65.235161
+8,Albania,2000,Male,63.149319
+954,Americas,2000,Total,64.087723
+51,Armenia,2000,Total,63.500061
+51,Armenia,2000,Female,65.640152
+270,Gambia,2000,Total,51.664989
+624,Guinea-Bissau,2000,Total,44.047798
+226,Equatorial Guinea,2000,Total,46.810951
+300,Greece,2000,Female,69.8172
+360,Indonesia,2000,Male,58.451839
+348,Hungary,2000,Female,66.105087
+348,Hungary,2000,Male,59.96666
+356,India,2000,Female,52.67527
+372,Ireland,2000,Female,68.297256
+376,Israel,2000,Male,68.424622
+328,Guyana,2000,Male,52.8885
+191,Croatia,2000,Total,65.426819
+191,Croatia,2000,Female,67.885948
+360,Indonesia,2000,Total,59.028931
+372,Ireland,2000,Male,65.875076
+356,India,2000,Total,52.945492
+356,India,2000,Male,53.187099
+364,Iran (Islamic Republic of),2000,Male,62.055809
+376,Israel,2000,Total,69.214531
+380,Italy,2000,Total,69.037483
+364,Iran (Islamic Republic of),2000,Female,63.119308
+368,Iraq,2000,Total,59.52388
+368,Iraq,2000,Male,58.549
+352,Iceland,2000,Total,69.823311
+352,Iceland,2000,Female,70.33992
+40,Austria,2000,Female,69.811127
+40,Austria,2000,Male,66.346916
+31,Azerbaijan,2000,Male,56.62009
+204,Benin,2000,Female,50.690479
+204,Benin,2000,Male,48.437649
+380,Italy,2000,Female,70.393143
+388,Jamaica,2000,Male,64.286301
+400,Jordan,2000,Total,63.562611
+392,Japan,2000,Male,69.462288
+398,Kazakhstan,2000,Male,51.981392
+388,Jamaica,2000,Total,65.404823
+392,Japan,2000,Total,71.57782
+398,Kazakhstan,2000,Total,56.097191
+398,Kazakhstan,2000,Female,60.53521
+404,Kenya,2000,Total,46.937561
+854,Burkina Faso,2000,Female,45.739491
+50,Bangladesh,2000,Female,57.552269
+44,Bahamas,2000,Female,64.775253
+68,Bolivia (Plurinational State of),2000,Total,57.89188
+68,Bolivia (Plurinational State of),2000,Male,57.612061
+417,Kyrgyzstan,2000,Total,58.655651
+417,Kyrgyzstan,2000,Male,55.80447
+116,Cambodia,2000,Total,51.393131
+116,Cambodia,2000,Female,52.92524
+116,Cambodia,2000,Male,49.814011
+404,Kenya,2000,Female,47.24839
+296,Kiribati,2000,Male,47.13446
+418,Lao People's Democratic Republic,2000,Female,53.088261
+434,Libya,2000,Female,64.98922
+144,Sri Lanka,2000,Female,66.179512
+410,Republic of Korea,2000,Total,67.360512
+414,Kuwait,2000,Female,68.021393
+414,Kuwait,2000,Male,67.379333
+430,Liberia,2000,Total,45.822861
+662,Saint Lucia,2000,Male,62.365059
+392,Japan,2000,Female,73.54464
+296,Kiribati,2000,Total,49.565189
+296,Kiribati,2000,Female,52.180981
+410,Republic of Korea,2000,Male,64.926666
+418,Lao People's Democratic Republic,2000,Male,50.50145
+422,Lebanon,2000,Total,64.664917
+422,Lebanon,2000,Female,64.923569
+422,Lebanon,2000,Male,64.39817
+430,Liberia,2000,Female,45.978722
+430,Liberia,2000,Male,45.702751
+52,Barbados,2000,Total,65.963676
+96,Brunei Darussalam,2000,Total,63.89352
+64,Bhutan,2000,Total,57.058689
+64,Bhutan,2000,Female,56.882309
+64,Bhutan,2000,Male,57.19928
+144,Sri Lanka,2000,Total,62.9935
+144,Sri Lanka,2000,Male,60.119431
+440,Lithuania,2000,Female,66.907257
+442,Luxembourg,2000,Male,66.772133
+428,Latvia,2000,Total,61.566582
+426,Lesotho,2000,Total,41.984509
+426,Lesotho,2000,Female,43.73214
+440,Lithuania,2000,Total,63.12323
+428,Latvia,2000,Female,65.63858
+504,Morocco,2000,Male,60.67308
+434,Libya,2000,Total,64.588287
+434,Libya,2000,Male,64.18528
+442,Luxembourg,2000,Female,69.748207
+504,Morocco,2000,Total,60.687981
+498,Republic of Moldova,2000,Male,56.651821
+124,Canada,2000,Male,68.112793
+156,China,2000,Female,64.864388
+384,Côte d'Ivoire,2000,Total,43.964481
+120,Cameroon,2000,Female,46.744049
+170,Colombia,2000,Total,64.140869
+462,Maldives,2000,Total,62.393051
+462,Maldives,2000,Female,62.34066
+484,Mexico,2000,Female,65.818771
+807,North Macedonia,2000,Total,63.19067
+807,North Macedonia,2000,Male,61.822899
+170,Colombia,2000,Female,66.90593
+170,Colombia,2000,Male,61.417431
+188,Costa Rica,2000,Female,69.275887
+196,Cyprus,2000,Female,69.95739
+196,Cyprus,2000,Male,68.279861
+498,Republic of Moldova,2000,Total,59.257992
+450,Madagascar,2000,Total,51.321072
+450,Madagascar,2000,Female,51.98148
+104,Myanmar,2000,Total,52.94595
+104,Myanmar,2000,Male,51.160889
+498,Republic of Moldova,2000,Female,61.816311
+466,Mali,2000,Total,45.614319
+470,Malta,2000,Female,69.387383
+499,Montenegro,2000,Total,65.1679
+508,Mozambique,2000,Male,42.116581
+466,Mali,2000,Female,45.300129
+470,Malta,2000,Total,68.531143
+470,Malta,2000,Male,67.583603
+496,Mongolia,2000,Total,53.82259
+496,Mongolia,2000,Female,56.408169
+496,Mongolia,2000,Male,51.528999
+508,Mozambique,2000,Female,45.107189
+478,Mauritania,2000,Total,54.35635
+480,Mauritius,2000,Total,61.939251
+480,Mauritius,2000,Female,64.156807
+203,Czechia,2000,Male,63.559891
+276,Germany,2000,Female,69.807266
+276,Germany,2000,Male,66.9617
+214,Dominican Republic,2000,Total,64.10495
+214,Dominican Republic,2000,Female,66.39418
+12,Algeria,2000,Male,62.625839
+218,Ecuador,2000,Female,66.66317
+957,Eastern Mediterranean,2000,Female,56.959572
+231,Ethiopia,2000,Female,44.84724
+956,Europe,2000,Male,60.961979
+242,Fiji,2000,Male,56.88905
+250,France,2000,Total,69.298431
+250,France,2000,Female,71.142128
+583,Micronesia (Federated States of),2000,Total,54.497971
+583,Micronesia (Federated States of),2000,Female,56.251141
+499,Montenegro,2000,Female,67.028023
+480,Mauritius,2000,Male,59.841751
+454,Malawi,2000,Female,39.305939
+458,Malaysia,2000,Male,62.60714
+566,Nigeria,2000,Total,46.45573
+478,Mauritania,2000,Female,54.01017
+458,Malaysia,2000,Total,63.98666
+516,Namibia,2000,Female,47.887321
+566,Nigeria,2000,Male,45.758839
+558,Nicaragua,2000,Male,62.19025
+558,Nicaragua,2000,Female,65.154358
+528,Netherlands (Kingdom of the),2000,Male,67.659683
+524,Nepal,2000,Total,56.252899
+524,Nepal,2000,Female,56.673439
+554,New Zealand,2000,Female,69.162376
+454,Malawi,2000,Male,38.90807
+566,Nigeria,2000,Female,47.188999
+578,Norway,2000,Total,68.433693
+578,Norway,2000,Female,69.811981
+578,Norway,2000,Male,67.002953
+583,Micronesia (Federated States of),2000,Male,52.902779
+266,Gabon,2000,Male,49.644001
+826,United Kingdom of Great Britain and Northern Ireland,2000,Total,67.572128
+288,Ghana,2000,Male,51.365799
+324,Guinea,2000,Male,47.31316
+270,Gambia,2000,Female,52.534679
+270,Gambia,2000,Male,50.95842
+624,Guinea-Bissau,2000,Female,45.485081
+226,Equatorial Guinea,2000,Female,47.882751
+300,Greece,2000,Total,68.634537
+512,Oman,2000,Female,61.876911
+586,Pakistan,2000,Female,52.127129
+604,Peru,2000,Male,64.570236
+598,Papua New Guinea,2000,Female,56.478729
+616,Poland,2000,Female,68.086029
+524,Nepal,2000,Male,55.80386
+554,New Zealand,2000,Total,67.802071
+608,Philippines,2000,Female,63.11478
+408,Democratic People's Republic of Korea,2000,Total,57.753021
+620,Portugal,2000,Total,66.828568
+586,Pakistan,2000,Male,52.57724
+591,Panama,2000,Total,67.197807
+591,Panama,2000,Female,68.60022
+591,Panama,2000,Male,65.909157
+598,Papua New Guinea,2000,Male,54.142288
+308,Grenada,2000,Total,63.583488
+320,Guatemala,2000,Total,57.843151
+328,Guyana,2000,Female,57.311798
+332,Haiti,2000,Female,49.602268
+332,Haiti,2000,Male,50.476299
+616,Poland,2000,Total,65.002747
+408,Democratic People's Republic of Korea,2000,Male,55.985149
+600,Paraguay,2000,Total,64.995003
+634,Qatar,2000,Female,61.429131
+642,Romania,2000,Male,60.718319
+348,Hungary,2000,Total,63.029339
+360,Indonesia,2000,Female,59.596889
+372,Ireland,2000,Total,67.07795
+364,Iran (Islamic Republic of),2000,Total,62.56073
+368,Iraq,2000,Female,60.579498
+408,Democratic People's Republic of Korea,2000,Female,59.375912
+620,Portugal,2000,Female,68.684509
+600,Paraguay,2000,Female,65.980728
+643,Russian Federation,2000,Total,57.335098
+729,Sudan,2000,Female,55.132111
+643,Russian Federation,2000,Female,62.78112
+643,Russian Federation,2000,Male,52.42281
+682,Saudi Arabia,2000,Total,61.183971
+682,Saudi Arabia,2000,Male,61.24094
+729,Sudan,2000,Total,54.26923
+955,South-East Asia,2000,Female,54.731239
+686,Senegal,2000,Male,50.056808
+702,Singapore,2000,Total,69.488289
+90,Solomon Islands,2000,Male,54.360298
+222,El Salvador,2000,Total,62.725052
+682,Saudi Arabia,2000,Female,60.9995
+955,South-East Asia,2000,Total,54.541481
+686,Senegal,2000,Total,50.760269
+702,Singapore,2000,Female,70.760368
+90,Solomon Islands,2000,Total,55.679131
+352,Iceland,2000,Male,69.277603
+376,Israel,2000,Female,69.941002
+380,Italy,2000,Male,67.563019
+388,Jamaica,2000,Female,66.59507
+400,Jordan,2000,Female,62.269779
+955,South-East Asia,2000,Male,54.3596
+686,Senegal,2000,Female,51.498081
+702,Singapore,2000,Male,68.218536
+90,Solomon Islands,2000,Female,57.176472
+678,Sao Tome and Principe,2000,Total,55.550549
+740,Suriname,2000,Female,63.03159
+703,Slovakia,2000,Male,61.642921
+705,Slovenia,2000,Female,69.120148
+752,Sweden,2000,Total,69.858467
+752,Sweden,2000,Male,68.99501
+222,El Salvador,2000,Male,59.682652
+688,Serbia,2000,Total,63.433842
+688,Serbia,2000,Male,61.541611
+728,South Sudan,2000,Total,46.359928
+678,Sao Tome and Principe,2000,Male,55.465302
+694,Sierra Leone,2000,Total,42.222118
+706,Somalia,2000,Total,44.009651
+706,Somalia,2000,Female,45.534512
+688,Serbia,2000,Female,65.387253
+728,South Sudan,2000,Female,47.373508
+728,South Sudan,2000,Male,45.40749
+740,Suriname,2000,Total,61.305618
+703,Slovakia,2000,Female,67.775749
+705,Slovenia,2000,Total,66.515846
+705,Slovenia,2000,Male,63.770061
+400,Jordan,2000,Male,64.953438
+404,Kenya,2000,Male,46.64901
+417,Kyrgyzstan,2000,Female,61.68103
+410,Republic of Korea,2000,Female,69.670418
+414,Kuwait,2000,Total,67.700127
+740,Suriname,2000,Male,59.722031
+752,Sweden,2000,Female,70.650551
+748,Eswatini,2000,Total,41.28175
+760,Syrian Arab Republic,2000,Male,62.911789
+148,Chad,2000,Total,44.7001
+418,Lao People's Democratic Republic,2000,Total,51.773991
+662,Saint Lucia,2000,Total,64.01162
+662,Saint Lucia,2000,Female,65.791733
+426,Lesotho,2000,Male,40.709381
+440,Lithuania,2000,Male,59.211151
+748,Eswatini,2000,Male,39.91291
+148,Chad,2000,Female,45.730789
+768,Togo,2000,Female,49.97813
+764,Thailand,2000,Total,62.635078
+762,Tajikistan,2000,Total,58.349689
+148,Chad,2000,Male,43.720291
+764,Thailand,2000,Male,59.871189
+762,Tajikistan,2000,Female,59.78735
+762,Tajikistan,2000,Male,57.012878
+795,Turkmenistan,2000,Female,59.61652
+442,Luxembourg,2000,Total,68.338593
+428,Latvia,2000,Male,57.35585
+504,Morocco,2000,Female,60.716881
+450,Madagascar,2000,Male,50.70512
+462,Maldives,2000,Male,62.413441
+626,Timor-Leste,2000,Female,53.726051
+776,Tonga,2000,Total,62.873631
+780,Trinidad and Tobago,2000,Female,63.105549
+780,Trinidad and Tobago,2000,Male,59.82362
+788,Tunisia,2000,Male,63.940159
+792,Türkiye,2000,Female,65.830299
+834,United Republic of Tanzania,2000,Female,45.835442
+800,Uganda,2000,Total,42.51545
+804,Ukraine,2000,Male,55.5425
+858,Uruguay,2000,Total,65.936478
+768,Togo,2000,Total,48.926559
+776,Tonga,2000,Male,61.46875
+780,Trinidad and Tobago,2000,Total,61.430229
+788,Tunisia,2000,Female,65.780853
+792,Türkiye,2000,Total,64.966698
+484,Mexico,2000,Total,64.551613
+484,Mexico,2000,Male,63.274391
+807,North Macedonia,2000,Female,64.631172
+466,Mali,2000,Male,46.040169
+104,Myanmar,2000,Female,54.736549
+792,Türkiye,2000,Male,64.134789
+834,United Republic of Tanzania,2000,Male,45.01416
+800,Uganda,2000,Male,41.3638
+804,Ukraine,2000,Total,59.70977
+860,Uzbekistan,2000,Total,58.07568
+858,Uruguay,2000,Male,63.475391
+840,United States of America,2000,Female,66.960709
+840,United States of America,2000,Male,64.576599
+862,Venezuela (Bolivarian Republic of),2000,Total,64.683907
+862,Venezuela (Bolivarian Republic of),2000,Male,62.496941
+670,Saint Vincent and the Grenadines,2000,Female,63.419239
+548,Vanuatu,2000,Total,56.79174
+910,High-income economies,2000,Male,66.054031
+911,Low-income economies,2000,Total,46.911499
+911,Low-income economies,2000,Female,47.646252
+834,United Republic of Tanzania,2000,Total,45.436798
+860,Uzbekistan,2000,Female,59.9417
+860,Uzbekistan,2000,Male,56.280201
+670,Saint Vincent and the Grenadines,2000,Male,61.091381
+704,Viet Nam,2000,Total,63.296009
+499,Montenegro,2000,Male,63.320068
+508,Mozambique,2000,Total,43.583569
+478,Mauritania,2000,Male,54.806179
+454,Malawi,2000,Total,39.065609
+458,Malaysia,2000,Female,65.533157
+912,Lower-middle-income economies,2000,Total,53.776329
+958,Western Pacific,2000,Total,64.266983
+887,Yemen,2000,Total,54.458729
+887,Yemen,2000,Male,54.09581
+710,South Africa,2000,Female,50.02795
+704,Viet Nam,2000,Male,60.61591
+548,Vanuatu,2000,Female,58.56525
+910,High-income economies,2000,Female,69.29454
+912,Lower-middle-income economies,2000,Female,54.307529
+882,Samoa,2000,Female,61.906071
+548,Vanuatu,2000,Male,55.290562
+910,High-income economies,2000,Total,67.707352
+911,Low-income economies,2000,Male,46.188992
+912,Lower-middle-income economies,2000,Male,53.276718
+958,Western Pacific,2000,Male,62.91045
+882,Samoa,2000,Total,60.732731
+710,South Africa,2000,Total,48.478569
+710,South Africa,2000,Male,47.063431
+894,Zambia,2000,Total,38.953041
+716,Zimbabwe,2000,Male,40.385521
+516,Namibia,2000,Total,46.60331
+516,Namibia,2000,Male,45.24749
+562,Niger,2000,Total,44.179119
+562,Niger,2000,Female,44.186279
+562,Niger,2000,Male,44.196991
+887,Yemen,2000,Female,54.895981
+894,Zambia,2000,Female,39.297192
+894,Zambia,2000,Male,38.62862
+716,Zimbabwe,2000,Female,41.770119
+4,Afghanistan,2010,Female,50.746521
+953,Africa,2010,Male,50.980221
+24,Angola,2010,Total,50.565399
+8,Albania,2010,Female,68.851707
+954,Americas,2010,Total,64.992027
+954,Americas,2010,Male,63.433201
+558,Nicaragua,2000,Total,63.693489
+528,Netherlands (Kingdom of the),2000,Total,68.766548
+528,Netherlands (Kingdom of the),2000,Female,69.751411
+554,New Zealand,2000,Male,66.402702
+512,Oman,2000,Total,60.943722
+4,Afghanistan,2010,Male,51.509022
+24,Angola,2010,Female,51.97081
+24,Angola,2010,Male,49.272839
+32,Argentina,2010,Female,68.170578
+32,Argentina,2010,Male,64.37117
+953,Africa,2010,Total,51.79792
+32,Argentina,2010,Total,66.299477
+51,Armenia,2010,Male,62.364712
+28,Antigua and Barbuda,2010,Female,68.091751
+28,Antigua and Barbuda,2010,Male,65.283218
+512,Oman,2000,Male,60.146069
+586,Pakistan,2000,Total,52.347881
+604,Peru,2000,Total,64.904984
+604,Peru,2000,Female,65.259453
+608,Philippines,2000,Total,60.576431
+36,Australia,2010,Total,70.167053
+40,Austria,2010,Total,69.915901
+40,Austria,2010,Male,68.337227
+31,Azerbaijan,2010,Total,61.707272
+108,Burundi,2010,Female,52.11441
+608,Philippines,2000,Male,58.22126
+598,Papua New Guinea,2000,Total,55.277962
+616,Poland,2000,Male,61.90147
+620,Portugal,2000,Male,64.955757
+600,Paraguay,2000,Male,64.053261
+108,Burundi,2010,Total,50.880009
+56,Belgium,2010,Female,70.362587
+204,Benin,2010,Total,53.000011
+50,Bangladesh,2010,Male,60.834438
+100,Bulgaria,2010,Total,65.201134
+51,Armenia,2010,Female,67.180313
+36,Australia,2010,Female,71.188599
+36,Australia,2010,Male,69.162308
+854,Burkina Faso,2010,Male,49.760361
+100,Bulgaria,2010,Female,67.772957
+204,Benin,2010,Male,51.737999
+50,Bangladesh,2010,Female,61.708061
+48,Bahrain,2010,Total,65.04232
+48,Bahrain,2010,Male,65.279839
+44,Bahamas,2010,Total,64.309349
+634,Qatar,2000,Total,62.447609
+634,Qatar,2000,Male,62.840839
+642,Romania,2000,Total,63.270882
+642,Romania,2000,Female,65.907318
+646,Rwanda,2000,Total,41.191269
+646,Rwanda,2000,Female,42.03714
+646,Rwanda,2000,Male,40.393089
+729,Sudan,2000,Male,53.450958
+694,Sierra Leone,2000,Female,43.529861
+694,Sierra Leone,2000,Male,40.93626
+44,Bahamas,2010,Male,62.203178
+70,Bosnia and Herzegovina,2010,Male,65.402397
+112,Belarus,2010,Total,62.258751
+84,Belize,2010,Female,66.118896
+68,Bolivia (Plurinational State of),2010,Total,61.71838
+44,Bahamas,2010,Female,66.4076
+112,Belarus,2010,Male,57.90538
+76,Brazil,2010,Total,63.947491
+76,Brazil,2010,Male,61.98848
+96,Brunei Darussalam,2010,Female,66.458359
+70,Bosnia and Herzegovina,2010,Total,66.978439
+70,Bosnia and Herzegovina,2010,Female,68.498863
+112,Belarus,2010,Female,66.743912
+68,Bolivia (Plurinational State of),2010,Female,61.728561
+68,Bolivia (Plurinational State of),2010,Male,61.713612
+222,El Salvador,2000,Female,65.664238
+706,Somalia,2000,Male,42.749989
+678,Sao Tome and Principe,2000,Female,55.65913
+703,Slovakia,2000,Total,64.716301
+748,Eswatini,2000,Female,42.79789
+72,Botswana,2010,Total,50.55534
+140,Central African Republic,2010,Total,42.451771
+140,Central African Republic,2010,Female,43.5639
+756,Switzerland,2010,Total,71.37307
+756,Switzerland,2010,Female,71.998367
+96,Brunei Darussalam,2010,Total,65.761719
+64,Bhutan,2010,Female,61.833099
+72,Botswana,2010,Female,52.54768
+72,Botswana,2010,Male,48.746189
+140,Central African Republic,2010,Male,41.41378
+690,Seychelles,2000,Total,63.069271
+690,Seychelles,2000,Female,66.057709
+690,Seychelles,2000,Male,60.325821
+760,Syrian Arab Republic,2000,Total,62.803749
+760,Syrian Arab Republic,2000,Female,62.785332
+152,Chile,2010,Total,68.462379
+156,China,2010,Male,65.345284
+120,Cameroon,2010,Female,50.169231
+120,Cameroon,2010,Male,48.980999
+180,Democratic Republic of the Congo,2010,Female,50.81897
+756,Switzerland,2010,Male,70.63916
+156,China,2010,Total,66.67585
+180,Democratic Republic of the Congo,2010,Total,49.880821
+170,Colombia,2010,Female,69.104713
+174,Comoros,2010,Female,57.5336
+178,Congo,2010,Total,53.030231
+178,Congo,2010,Female,52.207981
+170,Colombia,2010,Total,67.153084
+170,Colombia,2010,Male,65.184578
+132,Cabo Verde,2010,Female,66.43116
+52,Barbados,2010,Total,67.004494
+52,Barbados,2010,Male,66.440804
+124,Canada,2010,Total,70.835083
+384,Côte d'Ivoire,2010,Total,49.464199
+384,Côte d'Ivoire,2010,Female,50.709209
+768,Togo,2000,Male,47.964321
+764,Thailand,2000,Female,65.548523
+795,Turkmenistan,2000,Total,56.640671
+795,Turkmenistan,2000,Male,53.762039
+626,Timor-Leste,2000,Total,53.05304
+174,Comoros,2010,Male,56.394299
+196,Cyprus,2010,Total,70.785583
+196,Cyprus,2010,Male,70.023422
+203,Czechia,2010,Total,67.740517
+276,Germany,2010,Female,70.869301
+188,Costa Rica,2010,Female,70.554482
+192,Cuba,2010,Total,67.95462
+192,Cuba,2010,Female,68.983559
+196,Cyprus,2010,Female,71.543266
+203,Czechia,2010,Male,65.571213
+120,Cameroon,2010,Total,49.567928
+178,Congo,2010,Male,53.84877
+174,Comoros,2010,Total,56.967041
+132,Cabo Verde,2010,Total,64.530083
+188,Costa Rica,2010,Male,67.86087
+626,Timor-Leste,2000,Male,52.398849
+776,Tonga,2000,Female,64.508621
+788,Tunisia,2000,Total,64.801804
+800,Uganda,2000,Female,43.696129
+804,Ukraine,2000,Female,64.069359
+276,Germany,2010,Total,69.962753
+276,Germany,2010,Male,69.053703
+214,Dominican Republic,2010,Total,64.375893
+214,Dominican Republic,2010,Male,62.73946
+218,Ecuador,2010,Female,67.304749
+192,Cuba,2010,Male,66.956291
+214,Dominican Republic,2010,Female,66.168488
+12,Algeria,2010,Male,65.851547
+818,Egypt,2010,Female,62.50573
+957,Eastern Mediterranean,2010,Total,58.745541
+858,Uruguay,2000,Female,68.394928
+840,United States of America,2000,Total,65.800301
+670,Saint Vincent and the Grenadines,2000,Total,62.232471
+862,Venezuela (Bolivarian Republic of),2000,Female,67.000183
+704,Viet Nam,2000,Female,66.001617
+262,Djibouti,2010,Male,54.234589
+208,Denmark,2010,Female,70.023743
+12,Algeria,2010,Female,65.214996
+218,Ecuador,2010,Total,65.798843
+231,Ethiopia,2010,Total,54.955299
+957,Eastern Mediterranean,2010,Female,59.088619
+232,Eritrea,2010,Male,50.700378
+724,Spain,2010,Male,69.806641
+233,Estonia,2010,Total,66.880363
+956,Europe,2010,Total,66.346878
+231,Ethiopia,2010,Female,55.765579
+956,Europe,2010,Male,64.166779
+246,Finland,2010,Total,69.554764
+246,Finland,2010,Male,67.860931
+242,Fiji,2010,Total,59.494572
+914,Upper-middle-income economies,2000,Total,62.379391
+914,Upper-middle-income economies,2000,Female,64.136833
+914,Upper-middle-income economies,2000,Male,60.759838
+958,Western Pacific,2000,Female,65.776321
+882,Samoa,2000,Male,59.679352
+242,Fiji,2010,Female,60.247849
+250,France,2010,Total,71.162781
+250,France,2010,Female,72.535919
+266,Gabon,2010,Total,54.010521
+826,United Kingdom of Great Britain and Northern Ireland,2010,Total,69.443138
+242,Fiji,2010,Male,58.818169
+250,France,2010,Male,69.714691
+583,Micronesia (Federated States of),2010,Total,55.759411
+266,Gabon,2010,Male,53.140221
+268,Georgia,2010,Total,63.706619
+288,Ghana,2010,Total,54.334949
+324,Guinea,2010,Total,50.87117
+324,Guinea,2010,Male,50.51083
+1,World,2010,Total,61.53046
+624,Guinea-Bissau,2010,Total,48.5592
+957,Eastern Mediterranean,2010,Male,58.421371
+232,Eritrea,2010,Female,54.84301
+233,Estonia,2010,Female,70.166412
+231,Ethiopia,2010,Male,54.17543
+583,Micronesia (Federated States of),2010,Male,54.221771
+266,Gabon,2010,Female,54.857151
+826,United Kingdom of Great Britain and Northern Ireland,2010,Male,68.68428
+268,Georgia,2010,Female,66.897141
+288,Ghana,2010,Female,55.583641
+1,World,2010,Male,60.233891
+716,Zimbabwe,2000,Total,41.026569
+4,Afghanistan,2010,Total,51.130871
+953,Africa,2010,Female,52.631851
+8,Albania,2010,Total,67.567719
+8,Albania,2010,Male,66.33651
+268,Georgia,2010,Male,60.515129
+324,Guinea,2010,Female,51.224499
+270,Gambia,2010,Total,54.39278
+270,Gambia,2010,Male,53.910599
+300,Greece,2010,Total,70.038071
+300,Greece,2010,Male,68.886467
+308,Grenada,2010,Female,65.696022
+308,Grenada,2010,Male,61.77808
+340,Honduras,2010,Female,62.506229
+332,Haiti,2010,Female,31.155411
+226,Equatorial Guinea,2010,Total,51.676041
+226,Equatorial Guinea,2010,Male,52.425308
+308,Grenada,2010,Total,63.478081
+320,Guatemala,2010,Total,60.086159
+320,Guatemala,2010,Female,62.320641
+954,Americas,2010,Female,66.557419
+784,United Arab Emirates,2010,Total,65.101967
+784,United Arab Emirates,2010,Female,65.253868
+784,United Arab Emirates,2010,Male,64.914841
+51,Armenia,2010,Total,64.844498
+226,Equatorial Guinea,2010,Female,50.418491
+320,Guatemala,2010,Male,57.829319
+328,Guyana,2010,Male,54.505692
+340,Honduras,2010,Male,62.193039
+348,Hungary,2010,Female,68.377243
+328,Guyana,2010,Total,56.576141
+340,Honduras,2010,Total,62.321339
+191,Croatia,2010,Female,69.440323
+191,Croatia,2010,Male,65.099792
+356,India,2010,Total,57.320339
+28,Antigua and Barbuda,2010,Total,66.701469
+40,Austria,2010,Female,71.4039
+31,Azerbaijan,2010,Female,63.405811
+31,Azerbaijan,2010,Male,60.063789
+108,Burundi,2010,Male,49.632961
+360,Indonesia,2010,Total,61.20792
+356,India,2010,Male,57.028759
+368,Iraq,2010,Total,60.878159
+368,Iraq,2010,Male,59.789242
+352,Iceland,2010,Total,71.431236
+56,Belgium,2010,Total,69.212563
+56,Belgium,2010,Male,68.003311
+204,Benin,2010,Female,54.246632
+854,Burkina Faso,2010,Total,51.20277
+854,Burkina Faso,2010,Female,52.52042
+360,Indonesia,2010,Male,60.427891
+356,India,2010,Female,57.645771
+364,Iran (Islamic Republic of),2010,Male,64.478203
+352,Iceland,2010,Male,71.067482
+388,Jamaica,2010,Male,65.272003
+352,Iceland,2010,Female,71.767899
+376,Israel,2010,Male,70.923477
+380,Italy,2010,Total,71.142082
+388,Jamaica,2010,Total,66.563332
+400,Jordan,2010,Total,66.674637
+400,Jordan,2010,Female,66.224411
+392,Japan,2010,Female,74.696457
+116,Cambodia,2010,Female,60.666248
+296,Kiribati,2010,Total,51.53046
+410,Republic of Korea,2010,Female,72.875633
+50,Bangladesh,2010,Total,61.222271
+100,Bulgaria,2010,Male,62.7197
+48,Bahrain,2010,Female,64.346153
+84,Belize,2010,Total,64.5653
+84,Belize,2010,Male,63.149471
+400,Jordan,2010,Male,67.106483
+392,Japan,2010,Total,72.97374
+392,Japan,2010,Male,71.148033
+398,Kazakhstan,2010,Total,60.44891
+404,Kenya,2010,Total,53.53059
+414,Kuwait,2010,Total,69.209534
+414,Kuwait,2010,Male,69.17099
+422,Lebanon,2010,Male,64.598167
+434,Libya,2010,Female,65.733322
+662,Saint Lucia,2010,Total,65.45253
+76,Brazil,2010,Female,65.947113
+52,Barbados,2010,Female,67.516296
+96,Brunei Darussalam,2010,Male,65.089409
+64,Bhutan,2010,Total,61.66983
+64,Bhutan,2010,Male,61.51297
+376,Israel,2010,Female,71.83548
+380,Italy,2010,Female,72.186256
+404,Kenya,2010,Male,52.609959
+417,Kyrgyzstan,2010,Female,64.494766
+296,Kiribati,2010,Female,53.81197
+410,Republic of Korea,2010,Total,70.875687
+410,Republic of Korea,2010,Male,68.69696
+418,Lao People's Democratic Republic,2010,Total,57.431599
+422,Lebanon,2010,Total,65.396477
+430,Liberia,2010,Female,51.827919
+144,Sri Lanka,2010,Total,64.186981
+426,Lesotho,2010,Total,41.45908
+440,Lithuania,2010,Total,64.254387
+440,Lithuania,2010,Male,60.24247
+498,Republic of Moldova,2010,Male,58.125259
+417,Kyrgyzstan,2010,Male,58.891861
+116,Cambodia,2010,Male,57.202572
+296,Kiribati,2010,Male,49.3456
+430,Liberia,2010,Male,52.301498
+144,Sri Lanka,2010,Female,66.985931
+144,Sri Lanka,2010,Male,61.453732
+426,Lesotho,2010,Female,43.60627
+442,Luxembourg,2010,Male,69.586998
+484,Mexico,2010,Male,63.603642
+807,North Macedonia,2010,Total,64.8573
+434,Libya,2010,Male,65.606163
+426,Lesotho,2010,Male,39.628448
+442,Luxembourg,2010,Total,70.481308
+428,Latvia,2010,Female,67.732559
+428,Latvia,2010,Male,60.53569
+504,Morocco,2010,Total,62.533451
+504,Morocco,2010,Female,62.115631
+504,Morocco,2010,Male,63.100491
+498,Republic of Moldova,2010,Female,64.024529
+450,Madagascar,2010,Total,55.076698
+450,Madagascar,2010,Female,55.617741
+450,Madagascar,2010,Male,54.548752
+462,Maldives,2010,Total,67.969116
+462,Maldives,2010,Male,67.827187
+484,Mexico,2010,Total,65.12693
+124,Canada,2010,Female,71.694923
+124,Canada,2010,Male,69.922447
+152,Chile,2010,Female,69.823936
+152,Chile,2010,Male,67.015137
+156,China,2010,Female,68.227577
+462,Maldives,2010,Female,68.100693
+470,Malta,2010,Female,71.132889
+104,Myanmar,2010,Male,55.2005
+499,Montenegro,2010,Female,67.756416
+499,Montenegro,2010,Male,64.584633
+466,Mali,2010,Total,51.34404
+470,Malta,2010,Total,70.409149
+104,Myanmar,2010,Total,57.19595
+499,Montenegro,2010,Total,66.1688
+496,Mongolia,2010,Female,61.111382
+484,Mexico,2010,Female,66.642311
+807,North Macedonia,2010,Female,66.21347
+466,Mali,2010,Female,51.13398
+466,Mali,2010,Male,51.59005
+470,Malta,2010,Male,69.579857
+384,Côte d'Ivoire,2010,Male,48.511532
+180,Democratic Republic of the Congo,2010,Male,48.978081
+132,Cabo Verde,2010,Male,62.530659
+188,Costa Rica,2010,Total,69.187477
+203,Czechia,2010,Female,69.86087
+496,Mongolia,2010,Total,57.765099
+478,Mauritania,2010,Female,57.05986
+480,Mauritius,2010,Female,65.579498
+454,Malawi,2010,Male,48.292141
+458,Malaysia,2010,Female,66.62944
+508,Mozambique,2010,Total,46.460529
+508,Mozambique,2010,Female,48.318501
+478,Mauritania,2010,Total,57.41914
+480,Mauritius,2010,Total,63.373932
+458,Malaysia,2010,Male,64.272346
+104,Myanmar,2010,Female,59.147369
+496,Mongolia,2010,Male,54.758221
+454,Malawi,2010,Female,50.925861
+562,Niger,2010,Female,52.205761
+566,Nigeria,2010,Total,51.504929
+262,Djibouti,2010,Total,54.592609
+262,Djibouti,2010,Female,55.000511
+208,Denmark,2010,Total,69.415154
+208,Denmark,2010,Male,68.779808
+12,Algeria,2010,Total,65.531029
+516,Namibia,2010,Total,52.9422
+562,Niger,2010,Male,51.561939
+528,Netherlands (Kingdom of the),2010,Total,70.901947
+528,Netherlands (Kingdom of the),2010,Male,70.331718
+524,Nepal,2010,Total,59.947208
+578,Norway,2010,Total,70.176949
+554,New Zealand,2010,Female,70.566231
+512,Oman,2010,Female,62.652111
+512,Oman,2010,Male,61.5396
+586,Pakistan,2010,Total,54.488121
+586,Pakistan,2010,Male,54.44709
+604,Peru,2010,Total,67.475159
+604,Peru,2010,Female,67.928932
+604,Peru,2010,Male,67.022324
+608,Philippines,2010,Total,61.57402
+524,Nepal,2010,Female,60.549191
+524,Nepal,2010,Male,59.391521
+554,New Zealand,2010,Male,68.994377
+591,Panama,2010,Total,67.474281
+591,Panama,2010,Male,65.919296
+566,Nigeria,2010,Female,52.085079
+558,Nicaragua,2010,Male,63.048611
+528,Netherlands (Kingdom of the),2010,Female,71.390343
+578,Norway,2010,Male,69.268631
+586,Pakistan,2010,Female,54.544651
+218,Ecuador,2010,Male,64.362068
+818,Egypt,2010,Total,61.68504
+818,Egypt,2010,Male,60.9146
+232,Eritrea,2010,Total,52.64513
+724,Spain,2010,Total,71.032463
+598,Papua New Guinea,2010,Total,55.426689
+598,Papua New Guinea,2010,Male,54.504589
+616,Poland,2010,Female,70.169502
+408,Democratic People's Republic of Korea,2010,Female,64.493217
+620,Portugal,2010,Total,69.338364
+724,Spain,2010,Female,72.216316
+233,Estonia,2010,Male,63.26046
+956,Europe,2010,Female,68.510971
+246,Finland,2010,Female,71.214203
+583,Micronesia (Federated States of),2010,Female,57.46159
+826,United Kingdom of Great Britain and Northern Ireland,2010,Female,70.178436
+288,Ghana,2010,Male,53.217419
+1,World,2010,Female,62.888481
+270,Gambia,2010,Female,55.00703
+624,Guinea-Bissau,2010,Female,49.714081
+643,Russian Federation,2010,Total,60.4814
+643,Russian Federation,2010,Male,56.163719
+646,Rwanda,2010,Total,55.930752
+646,Rwanda,2010,Female,57.07391
+646,Rwanda,2010,Male,54.754341
+682,Saudi Arabia,2010,Total,62.191319
+729,Sudan,2010,Male,57.200272
+955,South-East Asia,2010,Total,58.68026
+686,Senegal,2010,Female,57.288631
+702,Singapore,2010,Total,72.340057
+624,Guinea-Bissau,2010,Male,47.344669
+300,Greece,2010,Female,71.200577
+328,Guyana,2010,Female,58.862419
+191,Croatia,2010,Total,67.309387
+332,Haiti,2010,Total,27.978939
+702,Singapore,2010,Female,73.567596
+694,Sierra Leone,2010,Male,47.38509
+222,El Salvador,2010,Female,67.038132
+706,Somalia,2010,Female,47.667339
+688,Serbia,2010,Female,67.379593
+703,Slovakia,2010,Male,63.747971
+705,Slovenia,2010,Total,69.230553
+752,Sweden,2010,Total,71.180428
+752,Sweden,2010,Male,70.663933
+748,Eswatini,2010,Female,43.64748
+332,Haiti,2010,Male,25.374439
+348,Hungary,2010,Total,65.765572
+348,Hungary,2010,Male,63.01783
+360,Indonesia,2010,Female,62.018101
+372,Ireland,2010,Total,70.057037
+748,Eswatini,2010,Male,39.75914
+690,Seychelles,2010,Male,61.783009
+760,Syrian Arab Republic,2010,Total,65.114754
+764,Thailand,2010,Total,67.087242
+764,Thailand,2010,Female,69.185341
+372,Ireland,2010,Female,70.745178
+372,Ireland,2010,Male,69.338516
+364,Iran (Islamic Republic of),2010,Total,65.024651
+364,Iran (Islamic Republic of),2010,Female,65.597527
+368,Iraq,2010,Female,62.004711
+376,Israel,2010,Total,71.415779
+380,Italy,2010,Male,69.977333
+388,Jamaica,2010,Female,68.036636
+398,Kazakhstan,2010,Female,64.006233
+398,Kazakhstan,2010,Male,56.962841
+780,Trinidad and Tobago,2010,Female,65.647919
+804,Ukraine,2010,Female,65.808281
+858,Uruguay,2010,Female,69.327972
+840,United States of America,2010,Male,65.700928
+860,Uzbekistan,2010,Total,62.330841
+404,Kenya,2010,Female,54.4249
+417,Kyrgyzstan,2010,Total,61.644989
+116,Cambodia,2010,Total,59.007629
+414,Kuwait,2010,Female,69.207329
+418,Lao People's Democratic Republic,2010,Female,58.896381
+418,Lao People's Democratic Republic,2010,Male,55.998039
+422,Lebanon,2010,Female,66.326576
+430,Liberia,2010,Total,52.054779
+434,Libya,2010,Total,65.67923
+662,Saint Lucia,2010,Female,67.682487
+662,Saint Lucia,2010,Male,63.454521
+440,Lithuania,2010,Female,68.166512
+442,Luxembourg,2010,Female,71.258369
+428,Latvia,2010,Total,64.259743
+498,Republic of Moldova,2010,Total,61.036999
+408,Democratic People's Republic of Korea,2010,Male,61.301609
+620,Portugal,2010,Female,70.760788
+600,Paraguay,2010,Female,66.481262
+634,Qatar,2010,Total,64.720787
+634,Qatar,2010,Female,63.11208
+642,Romania,2010,Total,65.434196
+642,Romania,2010,Female,68.11747
+682,Saudi Arabia,2010,Female,62.583599
+729,Sudan,2010,Female,58.27932
+686,Senegal,2010,Total,56.65361
+686,Senegal,2010,Male,56.013432
+694,Sierra Leone,2010,Total,47.758289
+694,Sierra Leone,2010,Female,48.095291
+688,Serbia,2010,Total,65.656403
+728,South Sudan,2010,Male,51.680771
+862,Venezuela (Bolivarian Republic of),2010,Female,67.935883
+548,Vanuatu,2010,Female,58.937519
+910,High-income economies,2010,Female,70.627747
+958,Western Pacific,2010,Male,65.363983
+882,Samoa,2010,Total,61.53624
+887,Yemen,2010,Female,58.872349
+716,Zimbabwe,2010,Female,46.119331
+4,Afghanistan,2015,Female,52.441528
+4,Afghanistan,2015,Male,52.784302
+24,Angola,2015,Total,53.661652
+807,North Macedonia,2010,Male,63.562248
+508,Mozambique,2010,Male,44.6115
+478,Mauritania,2010,Male,57.884659
+480,Mauritius,2010,Male,61.26553
+454,Malawi,2010,Total,49.592522
+740,Suriname,2010,Female,64.568207
+703,Slovakia,2010,Total,66.484848
+703,Slovakia,2010,Female,69.116158
+705,Slovenia,2010,Female,71.412514
+705,Slovenia,2010,Male,66.957336
+748,Eswatini,2010,Total,41.38002
+690,Seychelles,2010,Total,63.974239
+760,Syrian Arab Republic,2010,Male,65.216599
+768,Togo,2010,Total,51.96138
+764,Thailand,2010,Male,65.010513
+762,Tajikistan,2010,Male,59.669312
+780,Trinidad and Tobago,2010,Male,61.166729
+788,Tunisia,2010,Female,67.149673
+788,Tunisia,2010,Male,65.491592
+792,Türkiye,2010,Total,66.946274
+792,Türkiye,2010,Female,67.600906
+834,United Republic of Tanzania,2010,Total,53.359631
+834,United Republic of Tanzania,2010,Female,53.70932
+800,Uganda,2010,Female,53.56707
+858,Uruguay,2010,Total,67.145012
+670,Saint Vincent and the Grenadines,2010,Female,65.154587
+862,Venezuela (Bolivarian Republic of),2010,Total,65.275848
+704,Viet Nam,2010,Total,64.547836
+910,High-income economies,2010,Total,69.303017
+914,Upper-middle-income economies,2010,Female,66.853508
+882,Samoa,2010,Male,61.040779
+710,South Africa,2010,Total,49.612011
+894,Zambia,2010,Female,50.963539
+894,Zambia,2010,Male,47.911911
+953,Africa,2015,Total,54.416759
+8,Albania,2015,Female,70.121147
+954,Americas,2015,Total,66.025436
+954,Americas,2015,Male,64.621567
+784,United Arab Emirates,2015,Female,65.718109
+784,United Arab Emirates,2015,Male,65.262733
+458,Malaysia,2010,Total,65.376869
+516,Namibia,2010,Female,55.398048
+516,Namibia,2010,Male,50.51675
+562,Niger,2010,Total,51.85902
+566,Nigeria,2010,Male,50.954079
+591,Panama,2010,Female,69.14711
+616,Poland,2010,Total,67.125664
+408,Democratic People's Republic of Korea,2010,Total,62.981041
+620,Portugal,2010,Male,67.843201
+600,Paraguay,2010,Total,65.228813
+643,Russian Federation,2010,Female,64.902649
+682,Saudi Arabia,2010,Male,61.859329
+729,Sudan,2010,Total,57.7276
+702,Singapore,2010,Male,71.059174
+90,Solomon Islands,2010,Female,58.056721
+222,El Salvador,2010,Total,64.40036
+222,El Salvador,2010,Male,61.500778
+728,South Sudan,2010,Total,52.38131
+728,South Sudan,2010,Female,53.121231
+678,Sao Tome and Principe,2010,Total,59.76152
+32,Argentina,2015,Total,66.857063
+51,Armenia,2015,Male,63.666901
+28,Antigua and Barbuda,2015,Total,66.813316
+36,Australia,2015,Male,69.741653
+31,Azerbaijan,2015,Total,63.092491
+784,United Arab Emirates,2015,Total,65.448853
+32,Argentina,2015,Female,68.698059
+36,Australia,2015,Female,71.401413
+40,Austria,2015,Female,71.561043
+31,Azerbaijan,2015,Female,64.716988
+56,Belgium,2015,Total,69.994301
+204,Benin,2015,Total,54.285851
+204,Benin,2015,Male,53.17638
+854,Burkina Faso,2015,Total,53.354279
+50,Bangladesh,2015,Female,63.735222
+678,Sao Tome and Principe,2010,Female,60.18507
+678,Sao Tome and Principe,2010,Male,59.310741
+740,Suriname,2010,Male,60.822369
+752,Sweden,2010,Female,71.651314
+760,Syrian Arab Republic,2010,Female,65.087677
+148,Chad,2010,Total,48.554119
+768,Togo,2010,Female,53.238152
+795,Turkmenistan,2010,Female,62.74371
+795,Turkmenistan,2010,Male,57.558201
+626,Timor-Leste,2010,Female,60.186279
+776,Tonga,2010,Total,63.874229
+776,Tonga,2010,Female,65.548767
+776,Tonga,2010,Male,62.31942
+780,Trinidad and Tobago,2010,Total,63.342861
+834,United Republic of Tanzania,2010,Male,52.93148
+800,Uganda,2010,Total,52.119122
+804,Ukraine,2010,Male,58.508129
+858,Uruguay,2010,Male,64.871658
+840,United States of America,2010,Total,66.738289
+860,Uzbekistan,2010,Female,63.88562
+862,Venezuela (Bolivarian Republic of),2010,Male,62.765808
+704,Viet Nam,2010,Female,67.542084
+548,Vanuatu,2010,Total,57.33511
+548,Vanuatu,2010,Male,55.916931
+910,High-income economies,2010,Male,67.932243
+912,Lower-middle-income economies,2010,Total,57.462151
+912,Lower-middle-income economies,2010,Female,58.273209
+914,Upper-middle-income economies,2010,Total,65.075768
+882,Samoa,2010,Female,62.072029
+887,Yemen,2010,Total,58.631191
+887,Yemen,2010,Male,58.41011
+710,South Africa,2010,Male,48.721539
+894,Zambia,2010,Total,49.439671
+716,Zimbabwe,2010,Male,44.24712
+4,Afghanistan,2015,Total,52.60495
+953,Africa,2015,Female,55.47348
+953,Africa,2015,Male,53.381779
+24,Angola,2015,Female,55.27776
+8,Albania,2015,Total,69.025391
+32,Argentina,2015,Male,64.943207
+28,Antigua and Barbuda,2015,Female,67.656731
+28,Antigua and Barbuda,2015,Male,65.936127
+36,Australia,2015,Total,70.561287
+108,Burundi,2015,Total,53.964142
+854,Burkina Faso,2015,Female,54.761951
+854,Burkina Faso,2015,Male,51.858101
+50,Bangladesh,2015,Total,63.761631
+50,Bangladesh,2015,Male,63.818958
+100,Bulgaria,2015,Total,65.90979
+48,Bahrain,2015,Total,66.24379
+558,Nicaragua,2010,Total,64.702797
+558,Nicaragua,2010,Female,66.319061
+578,Norway,2010,Female,71.029877
+554,New Zealand,2010,Total,69.779472
+512,Oman,2010,Total,62.038651
+100,Bulgaria,2015,Female,68.355293
+100,Bulgaria,2015,Male,63.52681
+44,Bahamas,2015,Total,64.174843
+44,Bahamas,2015,Female,66.157722
+70,Bosnia and Herzegovina,2015,Total,66.967651
+108,Burundi,2015,Male,52.371578
+56,Belgium,2015,Female,70.8349
+48,Bahrain,2015,Male,66.554787
+84,Belize,2015,Total,65.06179
+68,Bolivia (Plurinational State of),2015,Male,62.718941
+70,Bosnia and Herzegovina,2015,Female,68.473961
+70,Bosnia and Herzegovina,2015,Male,65.419037
+112,Belarus,2015,Female,68.683922
+112,Belarus,2015,Male,61.220112
+84,Belize,2015,Female,67.002022
+76,Brazil,2015,Male,62.763039
+52,Barbados,2015,Female,67.54818
+64,Bhutan,2015,Male,62.45887
+72,Botswana,2015,Total,52.78075
+140,Central African Republic,2015,Total,44.15527
+48,Bahrain,2015,Female,65.553307
+84,Belize,2015,Male,63.330872
+68,Bolivia (Plurinational State of),2015,Total,62.73053
+68,Bolivia (Plurinational State of),2015,Female,62.74847
+76,Brazil,2015,Total,64.696297
+608,Philippines,2010,Female,63.788021
+608,Philippines,2010,Male,59.50177
+598,Papua New Guinea,2010,Female,56.389198
+616,Poland,2010,Male,64.039436
+600,Paraguay,2010,Male,64.082123
+52,Barbados,2015,Male,66.843712
+64,Bhutan,2015,Female,62.74086
+72,Botswana,2015,Male,50.943508
+140,Central African Republic,2015,Female,45.740768
+756,Switzerland,2015,Male,71.154167
+152,Chile,2015,Total,69.441757
+152,Chile,2015,Male,68.137642
+156,China,2015,Female,69.652687
+384,Côte d'Ivoire,2015,Total,52.520222
+384,Côte d'Ivoire,2015,Male,51.269779
+76,Brazil,2015,Female,66.651291
+96,Brunei Darussalam,2015,Female,66.276352
+64,Bhutan,2015,Total,62.600342
+72,Botswana,2015,Female,54.58551
+124,Canada,2015,Female,71.845734
+634,Qatar,2010,Male,65.758621
+642,Romania,2010,Male,62.813271
+955,South-East Asia,2010,Female,59.2752
+955,South-East Asia,2010,Male,58.134209
+90,Solomon Islands,2010,Total,56.582069
+124,Canada,2015,Male,70.413223
+756,Switzerland,2015,Female,72.28492
+152,Chile,2015,Female,70.65609
+384,Côte d'Ivoire,2015,Female,54.091759
+180,Democratic Republic of the Congo,2015,Male,51.282421
+178,Congo,2015,Total,54.900471
+170,Colombia,2015,Total,68.290207
+170,Colombia,2015,Female,69.911842
+170,Colombia,2015,Male,66.636917
+174,Comoros,2015,Total,58.19257
+90,Solomon Islands,2010,Male,55.277908
+706,Somalia,2010,Total,45.910488
+706,Somalia,2010,Male,44.440922
+688,Serbia,2010,Male,63.970661
+740,Suriname,2010,Total,62.647949
+132,Cabo Verde,2015,Female,66.854607
+132,Cabo Verde,2015,Male,63.662769
+188,Costa Rica,2015,Male,68.674919
+262,Djibouti,2015,Male,56.12336
+208,Denmark,2015,Total,70.52639
+208,Denmark,2015,Female,70.933594
+214,Dominican Republic,2015,Total,63.21027
+12,Algeria,2015,Total,65.98674
+12,Algeria,2015,Female,65.667503
+12,Algeria,2015,Male,66.325974
+218,Ecuador,2015,Total,67.493973
+818,Egypt,2015,Total,62.001862
+957,Eastern Mediterranean,2015,Male,59.02523
+724,Spain,2015,Female,72.444054
+233,Estonia,2015,Female,71.118408
+690,Seychelles,2010,Female,66.417549
+148,Chad,2010,Female,49.3988
+148,Chad,2010,Male,47.73415
+768,Togo,2010,Male,50.818199
+762,Tajikistan,2010,Total,60.858261
+956,Europe,2015,Male,65.566048
+246,Finland,2015,Total,70.73011
+246,Finland,2015,Male,69.442123
+242,Fiji,2015,Male,58.569149
+250,France,2015,Total,71.701889
+762,Tajikistan,2010,Female,62.188358
+795,Turkmenistan,2010,Total,60.122379
+626,Timor-Leste,2010,Total,59.294159
+626,Timor-Leste,2010,Male,58.425369
+788,Tunisia,2010,Total,66.297508
+250,France,2015,Female,72.874199
+266,Gabon,2015,Total,56.28936
+826,United Kingdom of Great Britain and Northern Ireland,2015,Male,69.033539
+288,Ghana,2015,Female,58.019718
+288,Ghana,2015,Male,55.12188
+792,Türkiye,2010,Male,66.295181
+800,Uganda,2010,Male,50.615238
+804,Ukraine,2010,Total,62.19735
+840,United States of America,2010,Female,67.737663
+860,Uzbekistan,2010,Male,60.809559
+670,Saint Vincent and the Grenadines,2010,Total,63.969318
+670,Saint Vincent and the Grenadines,2010,Male,62.903179
+704,Viet Nam,2010,Male,61.628658
+911,Low-income economies,2010,Total,52.50481
+911,Low-income economies,2010,Female,53.453308
+624,Guinea-Bissau,2015,Female,52.305321
+300,Greece,2015,Total,70.427094
+300,Greece,2015,Female,71.55304
+300,Greece,2015,Male,69.303818
+308,Grenada,2015,Female,65.325439
+911,Low-income economies,2010,Male,51.567509
+912,Lower-middle-income economies,2010,Male,56.708839
+914,Upper-middle-income economies,2010,Male,63.424541
+958,Western Pacific,2010,Total,66.980499
+958,Western Pacific,2010,Female,68.790283
+710,South Africa,2010,Female,50.495331
+716,Zimbabwe,2010,Total,45.224159
+24,Angola,2015,Male,52.180729
+8,Albania,2015,Male,67.99379
+954,Americas,2015,Female,67.431602
+328,Guyana,2015,Female,59.614128
+340,Honduras,2015,Male,60.133888
+348,Hungary,2015,Total,66.603867
+348,Hungary,2015,Male,64.346443
+356,India,2015,Female,59.16124
+51,Armenia,2015,Total,65.999443
+51,Armenia,2015,Female,68.143059
+40,Austria,2015,Total,70.391151
+40,Austria,2015,Male,69.169289
+31,Azerbaijan,2015,Male,61.49538
+356,India,2015,Male,59.115742
+368,Iraq,2015,Female,62.383469
+352,Iceland,2015,Female,72.097237
+380,Italy,2015,Total,71.555542
+388,Jamaica,2015,Total,66.592903
+108,Burundi,2015,Female,55.55806
+56,Belgium,2015,Male,69.105209
+204,Benin,2015,Female,55.389179
+44,Bahamas,2015,Male,62.182388
+112,Belarus,2015,Total,65.063499
+392,Japan,2015,Female,75.106628
+398,Kazakhstan,2015,Male,60.312248
+404,Kenya,2015,Male,54.75502
+417,Kyrgyzstan,2015,Total,63.73938
+417,Kyrgyzstan,2015,Female,66.16227
+52,Barbados,2015,Total,67.208076
+96,Brunei Darussalam,2015,Total,65.705116
+96,Brunei Darussalam,2015,Male,65.158432
+140,Central African Republic,2015,Male,42.67318
+124,Canada,2015,Total,71.145416
+116,Cambodia,2015,Male,58.947639
+410,Republic of Korea,2015,Female,73.730331
+414,Kuwait,2015,Female,71.042587
+418,Lao People's Democratic Republic,2015,Total,59.287041
+418,Lao People's Democratic Republic,2015,Female,60.728241
+430,Liberia,2015,Female,52.22398
+434,Libya,2015,Female,65.24202
+434,Libya,2015,Male,63.486309
+426,Lesotho,2015,Total,41.642139
+426,Lesotho,2015,Male,40.06226
+756,Switzerland,2015,Total,71.74572
+156,China,2015,Total,68.012192
+156,China,2015,Male,66.597473
+120,Cameroon,2015,Female,52.67561
+178,Congo,2015,Male,55.291199
+120,Cameroon,2015,Male,50.920471
+180,Democratic Republic of the Congo,2015,Total,52.433659
+178,Congo,2015,Female,54.48605
+174,Comoros,2015,Female,58.76696
+188,Costa Rica,2015,Total,70.038887
+192,Cuba,2015,Total,68.045753
+203,Czechia,2015,Female,70.167542
+276,Germany,2015,Total,70.070518
+262,Djibouti,2015,Female,57.911819
+214,Dominican Republic,2015,Male,61.24905
+218,Ecuador,2015,Female,68.531479
+818,Egypt,2015,Female,62.769279
+957,Eastern Mediterranean,2015,Total,59.40382
+232,Eritrea,2015,Male,52.18055
+724,Spain,2015,Male,70.639671
+956,Europe,2015,Female,69.326103
+242,Fiji,2015,Total,59.579281
+583,Micronesia (Federated States of),2015,Female,57.506432
+268,Georgia,2015,Female,67.314827
+288,Ghana,2015,Total,56.488289
+324,Guinea,2015,Female,51.916451
+1,World,2015,Total,62.938122
+1,World,2015,Female,64.222183
+270,Gambia,2015,Total,55.83424
+226,Equatorial Guinea,2015,Total,52.897709
+320,Guatemala,2015,Female,63.371929
+340,Honduras,2015,Female,62.56406
+332,Haiti,2015,Total,54.587719
+332,Haiti,2015,Female,54.441719
+348,Hungary,2015,Female,68.674187
+372,Ireland,2015,Total,70.66066
+364,Iran (Islamic Republic of),2015,Female,66.011108
+364,Iran (Islamic Republic of),2015,Male,65.307327
+368,Iraq,2015,Total,60.80275
+380,Italy,2015,Male,70.654518
+388,Jamaica,2015,Female,67.421082
+414,Kuwait,2015,Male,69.737389
+418,Lao People's Democratic Republic,2015,Male,57.90527
+422,Lebanon,2015,Total,65.667412
+422,Lebanon,2015,Male,64.692039
+430,Liberia,2015,Male,52.742161
+662,Saint Lucia,2015,Total,65.247162
+144,Sri Lanka,2015,Male,64.419563
+440,Lithuania,2015,Female,68.784103
+442,Luxembourg,2015,Male,70.870087
+120,Cameroon,2015,Total,51.784161
+180,Democratic Republic of the Congo,2015,Female,53.64328
+174,Comoros,2015,Male,57.61087
+188,Costa Rica,2015,Female,71.440697
+192,Cuba,2015,Female,69.193298
+192,Cuba,2015,Male,66.925453
+196,Cyprus,2015,Total,71.626167
+203,Czechia,2015,Male,66.364883
+262,Djibouti,2015,Total,56.996792
+208,Denmark,2015,Male,70.094513
+214,Dominican Republic,2015,Female,65.389214
+218,Ecuador,2015,Male,66.482262
+818,Egypt,2015,Male,61.287121
+724,Spain,2015,Total,71.564774
+246,Finland,2015,Female,71.973984
+266,Gabon,2015,Female,57.98259
+826,United Kingdom of Great Britain and Northern Ireland,2015,Total,69.672188
+826,United Kingdom of Great Britain and Northern Ireland,2015,Female,70.298767
+268,Georgia,2015,Total,64.197113
+324,Guinea,2015,Male,51.057232
+1,World,2015,Male,61.701672
+270,Gambia,2015,Male,55.271629
+328,Guyana,2015,Male,54.973221
+191,Croatia,2015,Female,69.931877
+191,Croatia,2015,Male,65.782661
+360,Indonesia,2015,Female,63.235592
+372,Ireland,2015,Male,70.158836
+376,Israel,2015,Female,72.320877
+380,Italy,2015,Female,72.363136
+400,Jordan,2015,Total,67.593407
+400,Jordan,2015,Male,68.042473
+392,Japan,2015,Total,73.617157
+398,Kazakhstan,2015,Total,63.352188
+398,Kazakhstan,2015,Female,66.271759
+417,Kyrgyzstan,2015,Male,61.320839
+116,Cambodia,2015,Total,60.747849
+116,Cambodia,2015,Female,62.372871
+296,Kiribati,2015,Male,49.619061
+410,Republic of Korea,2015,Total,72.030449
+410,Republic of Korea,2015,Male,70.16687
+414,Kuwait,2015,Total,70.233162
+422,Lebanon,2015,Female,66.815918
+430,Liberia,2015,Total,52.472698
+662,Saint Lucia,2015,Male,63.38316
+144,Sri Lanka,2015,Female,68.631157
+426,Lesotho,2015,Female,43.420959
+440,Lithuania,2015,Total,65.284363
+442,Luxembourg,2015,Total,71.529182
+442,Luxembourg,2015,Female,72.130539
+428,Latvia,2015,Total,65.761162
+428,Latvia,2015,Female,68.898613
+504,Morocco,2015,Female,63.13969
+504,Morocco,2015,Male,63.478901
+498,Republic of Moldova,2015,Female,65.499733
+498,Republic of Moldova,2015,Male,60.19685
+132,Cabo Verde,2015,Total,65.249168
+196,Cyprus,2015,Female,72.368057
+196,Cyprus,2015,Male,70.861397
+203,Czechia,2015,Total,68.291397
+276,Germany,2015,Female,70.847794
+276,Germany,2015,Male,69.277931
+957,Eastern Mediterranean,2015,Female,59.8111
+232,Eritrea,2015,Total,54.097488
+232,Eritrea,2015,Female,56.209091
+233,Estonia,2015,Total,68.255127
+498,Republic of Moldova,2015,Total,62.862839
+462,Maldives,2015,Female,69.146713
+484,Mexico,2015,Total,65.762589
+807,North Macedonia,2015,Total,65.328522
+470,Malta,2015,Total,71.319992
+504,Morocco,2015,Total,63.28651
+484,Mexico,2015,Female,67.169777
+807,North Macedonia,2015,Male,64.162811
+466,Mali,2015,Total,52.983669
+466,Mali,2015,Male,53.263729
+233,Estonia,2015,Male,65.027573
+231,Ethiopia,2015,Total,58.3223
+231,Ethiopia,2015,Female,59.2542
+231,Ethiopia,2015,Male,57.407761
+956,Europe,2015,Total,67.469254
+104,Myanmar,2015,Total,59.563671
+496,Mongolia,2015,Male,56.718201
+508,Mozambique,2015,Total,48.596779
+508,Mozambique,2015,Female,50.948391
+454,Malawi,2015,Total,54.891258
+499,Montenegro,2015,Total,66.636864
+508,Mozambique,2015,Male,46.230091
+478,Mauritania,2015,Total,58.946671
+478,Mauritania,2015,Female,58.572559
+478,Mauritania,2015,Male,59.409538
+484,Mexico,2015,Male,64.342789
+499,Montenegro,2015,Male,65.099968
+496,Mongolia,2015,Total,59.852718
+480,Mauritius,2015,Male,62.048512
+454,Malawi,2015,Female,56.98484
+242,Fiji,2015,Female,60.687241
+250,France,2015,Male,70.46994
+583,Micronesia (Federated States of),2015,Total,55.796169
+583,Micronesia (Federated States of),2015,Male,54.28231
+266,Gabon,2015,Male,54.754589
+516,Namibia,2015,Male,52.294041
+562,Niger,2015,Female,54.495918
+566,Nigeria,2015,Female,53.79187
+566,Nigeria,2015,Male,52.491661
+558,Nicaragua,2015,Male,63.448589
+268,Georgia,2015,Male,61.085812
+324,Guinea,2015,Total,51.51482
+270,Gambia,2015,Female,56.498798
+624,Guinea-Bissau,2015,Total,50.92004
+624,Guinea-Bissau,2015,Male,49.479969
+454,Malawi,2015,Male,52.844341
+458,Malaysia,2015,Total,65.78183
+524,Nepal,2015,Total,60.17453
+524,Nepal,2015,Male,59.290192
+586,Pakistan,2015,Female,55.799931
+458,Malaysia,2015,Female,66.959152
+516,Namibia,2015,Total,54.565022
+516,Namibia,2015,Female,56.734699
+562,Niger,2015,Total,54.14233
+554,New Zealand,2015,Female,70.516197
+528,Netherlands (Kingdom of the),2015,Female,71.332047
+578,Norway,2015,Total,71.225487
+578,Norway,2015,Male,70.550369
+554,New Zealand,2015,Total,69.891388
+586,Pakistan,2015,Male,55.77644
+226,Equatorial Guinea,2015,Female,52.5975
+226,Equatorial Guinea,2015,Male,52.85405
+308,Grenada,2015,Total,63.852989
+308,Grenada,2015,Male,62.502071
+320,Guatemala,2015,Total,61.476871
+591,Panama,2015,Female,69.606598
+604,Peru,2015,Female,69.213173
+608,Philippines,2015,Total,61.913361
+616,Poland,2015,Total,68.030762
+616,Poland,2015,Female,70.891777
+512,Oman,2015,Female,63.77737
+586,Pakistan,2015,Total,55.780479
+604,Peru,2015,Male,68.48217
+608,Philippines,2015,Female,64.011124
+608,Philippines,2015,Male,59.93903
+598,Papua New Guinea,2015,Male,55.505871
+620,Portugal,2015,Male,69.049637
+600,Paraguay,2015,Total,65.63456
+600,Paraguay,2015,Female,67.083969
+600,Paraguay,2015,Male,64.339973
+591,Panama,2015,Male,67.020203
+598,Papua New Guinea,2015,Total,56.420582
+616,Poland,2015,Male,65.119423
+408,Democratic People's Republic of Korea,2015,Total,64.297256
+620,Portugal,2015,Total,70.485603
+320,Guatemala,2015,Male,59.55011
+328,Guyana,2015,Total,57.17215
+340,Honduras,2015,Total,61.327862
+191,Croatia,2015,Total,67.900673
+332,Haiti,2015,Male,54.77129
+360,Indonesia,2015,Total,62.325199
+360,Indonesia,2015,Male,61.453339
+356,India,2015,Total,59.141769
+372,Ireland,2015,Female,71.16127
+364,Iran (Islamic Republic of),2015,Total,65.65789
+408,Democratic People's Republic of Korea,2015,Male,62.579731
+642,Romania,2015,Male,63.75877
+955,South-East Asia,2015,Total,60.458611
+955,South-East Asia,2015,Female,60.83844
+955,South-East Asia,2015,Male,60.097771
+634,Qatar,2015,Female,64.5271
+642,Romania,2015,Female,68.830467
+643,Russian Federation,2015,Male,58.7691
+729,Sudan,2015,Male,58.415211
+686,Senegal,2015,Total,58.16975
+634,Qatar,2015,Total,66.444153
+634,Qatar,2015,Male,67.429581
+643,Russian Federation,2015,Female,66.463028
+729,Sudan,2015,Total,58.894081
+702,Singapore,2015,Total,73.20282
+368,Iraq,2015,Male,59.298389
+352,Iceland,2015,Total,71.901894
+352,Iceland,2015,Male,71.680183
+376,Israel,2015,Total,71.842087
+376,Israel,2015,Male,71.301643
+702,Singapore,2015,Male,72.115837
+90,Solomon Islands,2015,Female,58.837318
+222,El Salvador,2015,Total,63.464531
+706,Somalia,2015,Female,49.68417
+688,Serbia,2015,Female,68.056717
+686,Senegal,2015,Female,58.703781
+686,Senegal,2015,Male,57.616619
+694,Sierra Leone,2015,Male,49.3871
+222,El Salvador,2015,Male,59.631359
+706,Somalia,2015,Total,48.092781
+90,Solomon Islands,2015,Total,57.397148
+90,Solomon Islands,2015,Male,56.10033
+694,Sierra Leone,2015,Total,49.702839
+706,Somalia,2015,Male,46.726971
+728,South Sudan,2015,Female,54.024529
+388,Jamaica,2015,Male,65.864662
+400,Jordan,2015,Female,67.166611
+392,Japan,2015,Male,72.038887
+404,Kenya,2015,Total,56.082371
+404,Kenya,2015,Female,57.402439
+296,Kiribati,2015,Total,51.61961
+296,Kiribati,2015,Female,53.700748
+434,Libya,2015,Total,64.349319
+662,Saint Lucia,2015,Female,67.337761
+144,Sri Lanka,2015,Total,66.550331
+688,Serbia,2015,Male,64.845062
+728,South Sudan,2015,Male,52.05928
+703,Slovakia,2015,Male,65.123428
+705,Slovenia,2015,Male,68.125809
+748,Eswatini,2015,Female,50.162121
+678,Sao Tome and Principe,2015,Male,60.367828
+703,Slovakia,2015,Total,67.637703
+705,Slovenia,2015,Female,71.919373
+752,Sweden,2015,Male,71.001289
+690,Seychelles,2015,Total,63.98344
+440,Lithuania,2015,Male,61.64349
+428,Latvia,2015,Male,62.334259
+450,Madagascar,2015,Total,56.302849
+450,Madagascar,2015,Female,56.766499
+450,Madagascar,2015,Male,55.842892
+690,Seychelles,2015,Female,66.313583
+690,Seychelles,2015,Male,61.904251
+760,Syrian Arab Republic,2015,Total,56.34132
+768,Togo,2015,Male,52.766209
+776,Tonga,2015,Total,63.933609
+748,Eswatini,2015,Male,44.34005
+148,Chad,2015,Female,51.29155
+764,Thailand,2015,Total,68.023903
+762,Tajikistan,2015,Female,62.693069
+795,Turkmenistan,2015,Male,59.41832
+740,Suriname,2015,Total,63.18116
+705,Slovenia,2015,Total,70.042122
+748,Eswatini,2015,Total,46.913658
+760,Syrian Arab Republic,2015,Female,58.814651
+762,Tajikistan,2015,Total,61.428249
+762,Tajikistan,2015,Male,60.294449
+795,Turkmenistan,2015,Total,61.72654
+795,Turkmenistan,2015,Female,64.035477
+626,Timor-Leste,2015,Male,59.427341
+776,Tonga,2015,Female,65.579803
+776,Tonga,2015,Male,62.494789
+780,Trinidad and Tobago,2015,Total,65.189293
+780,Trinidad and Tobago,2015,Male,62.932331
+788,Tunisia,2015,Total,66.749878
+788,Tunisia,2015,Female,67.549599
+462,Maldives,2015,Total,69.107269
+462,Maldives,2015,Male,68.957878
+807,North Macedonia,2015,Female,66.539703
+466,Mali,2015,Female,52.744511
+470,Malta,2015,Female,71.844612
+788,Tunisia,2015,Male,65.96701
+792,Türkiye,2015,Female,68.434898
+792,Türkiye,2015,Male,66.93821
+834,United Republic of Tanzania,2015,Male,55.861591
+804,Ukraine,2015,Total,63.786812
+626,Timor-Leste,2015,Female,61.283798
+780,Trinidad and Tobago,2015,Female,67.575089
+800,Uganda,2015,Male,53.935768
+804,Ukraine,2015,Male,60.09502
+670,Saint Vincent and the Grenadines,2015,Female,64.946838
+800,Uganda,2015,Total,56.29026
+800,Uganda,2015,Female,58.661419
+858,Uruguay,2015,Total,67.544991
+858,Uruguay,2015,Male,65.321999
+840,United States of America,2015,Female,67.529846
+840,United States of America,2015,Male,65.580994
+860,Uzbekistan,2015,Total,63.459621
+860,Uzbekistan,2015,Female,64.770378
+860,Uzbekistan,2015,Male,62.156952
+862,Venezuela (Bolivarian Republic of),2015,Total,65.099426
+470,Malta,2015,Male,70.707153
+104,Myanmar,2015,Female,61.540791
+104,Myanmar,2015,Male,57.506279
+499,Montenegro,2015,Female,68.180153
+496,Mongolia,2015,Female,63.24678
+480,Mauritius,2015,Total,64.029823
+480,Mauritius,2015,Female,66.085159
+458,Malaysia,2015,Male,64.738319
+562,Niger,2015,Male,53.839199
+566,Nigeria,2015,Total,53.12532
+858,Uruguay,2015,Female,69.64389
+862,Venezuela (Bolivarian Republic of),2015,Female,67.843407
+548,Vanuatu,2015,Male,55.92971
+910,High-income economies,2015,Female,70.78434
+912,Lower-middle-income economies,2015,Female,59.69252
+862,Venezuela (Bolivarian Republic of),2015,Male,62.510551
+704,Viet Nam,2015,Female,67.934608
+704,Viet Nam,2015,Male,61.961979
+910,High-income economies,2015,Total,69.612877
+911,Low-income economies,2015,Female,56.20496
+914,Upper-middle-income economies,2015,Female,68.149719
+958,Western Pacific,2015,Total,68.123047
+882,Samoa,2015,Female,62.326618
+882,Samoa,2015,Male,61.502918
+4,Afghanistan,2019,Total,53.949612
+670,Saint Vincent and the Grenadines,2015,Male,62.246399
+548,Vanuatu,2015,Total,57.363861
+548,Vanuatu,2015,Female,59.017189
+910,High-income economies,2015,Male,68.410927
+887,Yemen,2015,Male,57.932049
+958,Western Pacific,2015,Female,69.943497
+958,Western Pacific,2015,Male,66.479507
+887,Yemen,2015,Total,58.380081
+887,Yemen,2015,Female,58.842018
+710,South Africa,2015,Total,54.108269
+558,Nicaragua,2015,Total,65.160019
+558,Nicaragua,2015,Female,66.816933
+528,Netherlands (Kingdom of the),2015,Total,71.122681
+528,Netherlands (Kingdom of the),2015,Male,70.872566
+578,Norway,2015,Female,71.859062
+710,South Africa,2015,Female,55.502701
+894,Zambia,2015,Female,54.319569
+716,Zimbabwe,2015,Total,51.1674
+716,Zimbabwe,2015,Female,52.590172
+24,Angola,2019,Total,54.841728
+953,Africa,2019,Female,57.09127
+784,United Arab Emirates,2019,Total,65.992783
+32,Argentina,2019,Total,67.127762
+32,Argentina,2019,Female,68.765961
+28,Antigua and Barbuda,2019,Total,66.974861
+24,Angola,2019,Female,56.208118
+8,Albania,2019,Total,69.075447
+8,Albania,2019,Female,70.252251
+8,Albania,2019,Male,67.998642
+784,United Arab Emirates,2019,Male,65.84449
+710,South Africa,2015,Male,52.706299
+894,Zambia,2015,Male,51.068298
+716,Zimbabwe,2015,Male,49.616871
+4,Afghanistan,2019,Female,53.153049
+954,Americas,2019,Male,64.834824
+784,United Arab Emirates,2019,Female,66.187721
+51,Armenia,2019,Total,67.117493
+51,Armenia,2019,Female,69.101662
+51,Armenia,2019,Male,64.882797
+28,Antigua and Barbuda,2019,Female,67.691772
+524,Nepal,2015,Female,61.053471
+554,New Zealand,2015,Male,69.263657
+512,Oman,2015,Total,63.749458
+512,Oman,2015,Male,63.423382
+591,Panama,2015,Total,68.284409
+36,Australia,2019,Total,70.934052
+36,Australia,2019,Male,70.151154
+108,Burundi,2019,Total,55.584148
+108,Burundi,2019,Female,57.19762
+56,Belgium,2019,Male,69.763908
+604,Peru,2015,Total,68.845047
+598,Papua New Guinea,2015,Female,57.39642
+408,Democratic People's Republic of Korea,2015,Female,65.858414
+620,Portugal,2015,Female,71.828056
+642,Romania,2015,Total,66.280312
+28,Antigua and Barbuda,2019,Male,66.245392
+31,Azerbaijan,2019,Total,63.64579
+31,Azerbaijan,2019,Female,65.223663
+56,Belgium,2019,Total,70.556953
+854,Burkina Faso,2019,Female,56.2584
+40,Austria,2019,Total,70.942932
+31,Azerbaijan,2019,Male,62.080761
+204,Benin,2019,Female,56.574459
+854,Burkina Faso,2019,Male,53.391689
+48,Bahrain,2019,Male,65.976357
+50,Bangladesh,2019,Total,64.295052
+50,Bangladesh,2019,Female,64.376289
+100,Bulgaria,2019,Total,66.282478
+100,Bulgaria,2019,Female,68.713623
+84,Belize,2019,Female,67.311897
+44,Bahamas,2019,Female,66.465912
+70,Bosnia and Herzegovina,2019,Female,68.68087
+112,Belarus,2019,Total,65.973923
+112,Belarus,2019,Female,69.368896
+84,Belize,2019,Total,65.293373
+204,Benin,2019,Total,55.51936
+854,Burkina Faso,2019,Total,54.861252
+48,Bahrain,2019,Total,65.876587
+44,Bahamas,2019,Total,64.353821
+44,Bahamas,2019,Male,62.25668
+70,Bosnia and Herzegovina,2019,Total,67.18837
+70,Bosnia and Herzegovina,2019,Male,65.656311
+112,Belarus,2019,Male,62.3111
+84,Belize,2019,Male,63.477379
+68,Bolivia (Plurinational State of),2019,Total,63.270229
+643,Russian Federation,2015,Total,62.670021
+646,Rwanda,2015,Total,58.867531
+646,Rwanda,2015,Female,60.073898
+646,Rwanda,2015,Male,57.61433
+682,Saudi Arabia,2015,Total,63.203899
+52,Barbados,2019,Female,67.679916
+52,Barbados,2019,Male,66.248772
+96,Brunei Darussalam,2019,Female,66.138588
+64,Bhutan,2019,Female,63.47654
+64,Bhutan,2019,Male,63.235432
+682,Saudi Arabia,2015,Female,63.76725
+682,Saudi Arabia,2015,Male,62.80032
+729,Sudan,2015,Female,59.39344
+702,Singapore,2015,Female,74.250504
+694,Sierra Leone,2015,Female,49.991402
+52,Barbados,2019,Total,66.98761
+64,Bhutan,2019,Total,63.35704
+124,Canada,2019,Male,70.510002
+156,China,2019,Male,67.209442
+384,Côte d'Ivoire,2019,Total,54.805099
+72,Botswana,2019,Female,55.812321
+124,Canada,2019,Female,71.975647
+152,Chile,2019,Total,70.049393
+152,Chile,2019,Male,68.959068
+156,China,2019,Female,70.017563
+68,Bolivia (Plurinational State of),2019,Male,63.20565
+76,Brazil,2019,Total,65.398308
+72,Botswana,2019,Total,53.886742
+140,Central African Republic,2019,Male,44.478889
+756,Switzerland,2019,Total,72.524246
+222,El Salvador,2015,Female,67.034561
+688,Serbia,2015,Total,66.441658
+728,South Sudan,2015,Total,53.016911
+678,Sao Tome and Principe,2015,Total,60.947632
+678,Sao Tome and Principe,2015,Female,61.498741
+756,Switzerland,2019,Female,72.823647
+756,Switzerland,2019,Male,72.189499
+152,Chile,2019,Female,71.054802
+384,Côte d'Ivoire,2019,Female,56.464329
+120,Cameroon,2019,Male,53.469898
+740,Suriname,2015,Female,65.029869
+740,Suriname,2015,Male,61.40313
+703,Slovakia,2015,Female,70.008087
+752,Sweden,2015,Total,71.429153
+752,Sweden,2015,Female,71.82991
+180,Democratic Republic of the Congo,2019,Total,54.09277
+178,Congo,2019,Female,56.110149
+170,Colombia,2019,Female,70.474648
+174,Comoros,2019,Male,58.271221
+132,Cabo Verde,2019,Male,62.207298
+170,Colombia,2019,Total,68.964943
+170,Colombia,2019,Male,67.419701
+174,Comoros,2019,Total,58.946201
+192,Cuba,2019,Total,67.835579
+203,Czechia,2019,Female,70.573853
+262,Djibouti,2019,Male,57.20602
+214,Dominican Republic,2019,Female,66.053459
+214,Dominican Republic,2019,Male,62.074772
+12,Algeria,2019,Female,66.08149
+818,Egypt,2019,Female,63.683929
+188,Costa Rica,2019,Female,71.327682
+188,Costa Rica,2019,Male,68.648987
+192,Cuba,2019,Male,66.554413
+203,Czechia,2019,Total,68.789413
+276,Germany,2019,Total,70.891129
+276,Germany,2019,Female,72.105133
+276,Germany,2019,Male,69.663986
+262,Djibouti,2019,Total,57.99794
+262,Djibouti,2019,Female,58.899071
+208,Denmark,2019,Total,71.035156
+208,Denmark,2019,Female,71.375557
+214,Dominican Republic,2019,Total,63.97591
+12,Algeria,2019,Total,66.388062
+12,Algeria,2019,Male,66.722397
+218,Ecuador,2019,Total,68.481789
+180,Democratic Republic of the Congo,2019,Female,55.443459
+174,Comoros,2019,Female,59.620232
+188,Costa Rica,2019,Total,69.973709
+196,Cyprus,2019,Total,72.413383
+196,Cyprus,2019,Male,71.824516
+760,Syrian Arab Republic,2015,Male,54.13623
+148,Chad,2015,Total,50.531521
+148,Chad,2015,Male,49.78561
+768,Togo,2015,Total,54.209789
+768,Togo,2015,Female,55.796558
+764,Thailand,2015,Female,70.330681
+764,Thailand,2015,Male,65.728851
+626,Timor-Leste,2015,Total,60.336159
+792,Türkiye,2015,Total,67.715637
+834,United Republic of Tanzania,2015,Total,56.744431
+218,Ecuador,2019,Male,67.705833
+724,Spain,2019,Male,71.264709
+233,Estonia,2019,Female,71.720306
+956,Europe,2019,Total,68.305077
+246,Finland,2019,Total,70.995827
+208,Denmark,2019,Male,70.673447
+818,Egypt,2019,Total,62.967651
+957,Eastern Mediterranean,2019,Female,60.696209
+957,Eastern Mediterranean,2019,Male,60.205669
+232,Eritrea,2019,Total,55.73431
+724,Spain,2019,Female,72.852371
+233,Estonia,2019,Male,66.39296
+231,Ethiopia,2019,Female,60.811359
+231,Ethiopia,2019,Male,58.981651
+956,Europe,2019,Female,69.980797
+834,United Republic of Tanzania,2015,Female,57.57885
+804,Ukraine,2015,Female,67.301697
+840,United States of America,2015,Total,66.561684
+670,Saint Vincent and the Grenadines,2015,Total,63.51096
+704,Viet Nam,2015,Total,64.893661
+957,Eastern Mediterranean,2019,Total,60.446209
+232,Eritrea,2019,Female,57.703571
+233,Estonia,2019,Total,69.236458
+250,France,2019,Female,73.057953
+583,Micronesia (Federated States of),2019,Female,57.76408
+246,Finland,2019,Male,69.926407
+242,Fiji,2019,Total,59.592209
+242,Fiji,2019,Female,60.744652
+250,France,2019,Male,71.062042
+826,United Kingdom of Great Britain and Northern Ireland,2019,Total,70.134911
+911,Low-income economies,2015,Total,55.091881
+911,Low-income economies,2015,Male,53.988232
+912,Lower-middle-income economies,2015,Total,59.021198
+912,Lower-middle-income economies,2015,Male,58.386082
+914,Upper-middle-income economies,2015,Total,66.389893
+826,United Kingdom of Great Britain and Northern Ireland,2019,Male,69.636917
+268,Georgia,2019,Total,64.679176
+268,Georgia,2019,Male,61.43597
+324,Guinea,2019,Female,53.70005
+324,Guinea,2019,Male,52.865829
+914,Upper-middle-income economies,2015,Male,64.737679
+882,Samoa,2015,Total,61.895691
+894,Zambia,2015,Total,52.70776
+4,Afghanistan,2019,Male,54.73407
+953,Africa,2019,Total,56.037491
+624,Guinea-Bissau,2019,Total,52.61935
+624,Guinea-Bissau,2019,Female,54.117748
+226,Equatorial Guinea,2019,Female,54.07782
+308,Grenada,2019,Male,62.599178
+320,Guatemala,2019,Total,62.302021
+953,Africa,2019,Male,55.000622
+24,Angola,2019,Male,53.55479
+954,Americas,2019,Total,66.168114
+954,Americas,2019,Female,67.506844
+32,Argentina,2019,Male,65.403107
+320,Guatemala,2019,Male,60.46133
+191,Croatia,2019,Total,68.623337
+191,Croatia,2019,Male,66.693024
+332,Haiti,2019,Female,55.762779
+356,India,2019,Male,60.276741
+36,Australia,2019,Female,71.730721
+40,Austria,2019,Female,71.896309
+40,Austria,2019,Male,69.933861
+108,Burundi,2019,Male,53.97522
+56,Belgium,2019,Female,71.314636
+288,Ghana,2019,Female,59.584839
+288,Ghana,2019,Male,56.531189
+1,World,2019,Male,62.528252
+270,Gambia,2019,Total,57.039742
+226,Equatorial Guinea,2019,Total,53.856491
+226,Equatorial Guinea,2019,Male,53.42942
+300,Greece,2019,Total,70.871681
+300,Greece,2019,Male,69.859207
+308,Grenada,2019,Total,63.915169
+340,Honduras,2019,Male,62.65538
+332,Haiti,2019,Male,55.874191
+348,Hungary,2019,Total,67.191803
+348,Hungary,2019,Female,69.259727
+348,Hungary,2019,Male,64.958878
+360,Indonesia,2019,Female,63.788059
+372,Ireland,2019,Male,70.72245
+364,Iran (Islamic Republic of),2019,Female,66.524017
+368,Iraq,2019,Total,62.658871
+368,Iraq,2019,Male,61.6259
+352,Iceland,2019,Female,72.26828
+204,Benin,2019,Male,54.46505
+50,Bangladesh,2019,Male,64.248734
+100,Bulgaria,2019,Male,63.9105
+48,Bahrain,2019,Female,65.487579
+68,Bolivia (Plurinational State of),2019,Female,63.339809
+364,Iran (Islamic Republic of),2019,Male,65.965317
+376,Israel,2019,Total,72.378723
+376,Israel,2019,Male,71.971046
+388,Jamaica,2019,Total,66.550194
+392,Japan,2019,Female,75.481934
+352,Iceland,2019,Male,71.697304
+380,Italy,2019,Total,71.919693
+388,Jamaica,2019,Male,65.925201
+392,Japan,2019,Male,72.635033
+398,Kazakhstan,2019,Total,64.989342
+398,Kazakhstan,2019,Male,62.374371
+417,Kyrgyzstan,2019,Total,65.775726
+417,Kyrgyzstan,2019,Female,67.731216
+417,Kyrgyzstan,2019,Male,63.611752
+116,Cambodia,2019,Total,61.506828
+956,Europe,2019,Male,66.562637
+242,Fiji,2019,Male,58.538719
+583,Micronesia (Federated States of),2019,Total,55.976582
+266,Gabon,2019,Total,57.561649
+288,Ghana,2019,Total,57.97876
+1,World,2019,Total,63.69772
+270,Gambia,2019,Female,57.744301
+270,Gambia,2019,Male,56.41885
+328,Guyana,2019,Total,57.23597
+340,Honduras,2019,Total,62.98349
+340,Honduras,2019,Female,63.301449
+360,Indonesia,2019,Male,61.92342
+368,Iraq,2019,Female,63.70298
+376,Israel,2019,Female,72.744942
+380,Italy,2019,Female,72.587547
+76,Brazil,2019,Female,67.367416
+76,Brazil,2019,Male,63.442768
+96,Brunei Darussalam,2019,Total,65.649857
+96,Brunei Darussalam,2019,Male,65.198441
+72,Botswana,2019,Male,51.926121
+404,Kenya,2019,Total,57.677391
+404,Kenya,2019,Female,58.927071
+116,Cambodia,2019,Male,59.81303
+296,Kiribati,2019,Male,50.453201
+410,Republic of Korea,2019,Female,74.660698
+296,Kiribati,2019,Total,52.61602
+414,Kuwait,2019,Total,70.087723
+422,Lebanon,2019,Total,65.963242
+430,Liberia,2019,Total,54.913639
+434,Libya,2019,Male,64.912651
+410,Republic of Korea,2019,Male,71.319946
+414,Kuwait,2019,Male,69.506897
+418,Lao People's Democratic Republic,2019,Female,61.887192
+422,Lebanon,2019,Female,67.045097
+422,Lebanon,2019,Male,65.06089
+380,Italy,2019,Male,71.163681
+400,Jordan,2019,Total,67.600021
+410,Republic of Korea,2019,Total,73.059021
+418,Lao People's Democratic Republic,2019,Total,60.510479
+662,Saint Lucia,2019,Total,64.697052
+140,Central African Republic,2019,Total,46.371311
+140,Central African Republic,2019,Female,48.44421
+124,Canada,2019,Total,71.251373
+156,China,2019,Total,68.528107
+384,Côte d'Ivoire,2019,Male,53.445961
+662,Saint Lucia,2019,Female,66.628143
+662,Saint Lucia,2019,Male,63.005482
+144,Sri Lanka,2019,Total,67.046547
+426,Lesotho,2019,Female,46.422428
+442,Luxembourg,2019,Total,71.551277
+434,Libya,2019,Total,65.215752
+434,Libya,2019,Female,65.500908
+442,Luxembourg,2019,Female,71.957916
+442,Luxembourg,2019,Male,71.116318
+428,Latvia,2019,Total,66.248672
+144,Sri Lanka,2019,Male,65.052719
+426,Lesotho,2019,Total,44.242821
+440,Lithuania,2019,Total,66.688713
+440,Lithuania,2019,Female,69.675682
+428,Latvia,2019,Male,62.906132
+504,Morocco,2019,Male,63.720631
+498,Republic of Moldova,2019,Female,67.085678
+450,Madagascar,2019,Total,57.311279
+462,Maldives,2019,Male,69.728157
+484,Mexico,2019,Total,65.757568
+120,Cameroon,2019,Total,54.51807
+120,Cameroon,2019,Female,55.60479
+180,Democratic Republic of the Congo,2019,Male,52.814529
+178,Congo,2019,Total,56.246399
+178,Congo,2019,Male,56.35416
+428,Latvia,2019,Female,69.339256
+504,Morocco,2019,Total,63.686081
+450,Madagascar,2019,Female,57.739552
+462,Maldives,2019,Total,69.954849
+470,Malta,2019,Male,70.909813
+132,Cabo Verde,2019,Total,64.799728
+132,Cabo Verde,2019,Female,67.21624
+192,Cuba,2019,Female,69.160423
+196,Cyprus,2019,Female,72.967506
+203,Czechia,2019,Male,66.972153
+462,Maldives,2019,Female,70.026604
+466,Mali,2019,Total,54.62648
+470,Malta,2019,Female,71.943466
+104,Myanmar,2019,Female,62.773418
+499,Montenegro,2019,Male,65.237701
+807,North Macedonia,2019,Female,67.272591
+807,North Macedonia,2019,Male,65.05024
+466,Mali,2019,Male,54.832661
+104,Myanmar,2019,Total,60.85162
+508,Mozambique,2019,Female,52.758499
+218,Ecuador,2019,Female,69.264488
+818,Egypt,2019,Male,62.290451
+232,Eritrea,2019,Male,53.913101
+724,Spain,2019,Total,72.08696
+231,Ethiopia,2019,Total,59.89373
+104,Myanmar,2019,Male,58.830849
+496,Mongolia,2019,Female,63.79509
+496,Mongolia,2019,Male,57.055908
+480,Mauritius,2019,Male,62.005291
+454,Malawi,2019,Female,59.020451
+496,Mongolia,2019,Total,60.285221
+478,Mauritania,2019,Female,59.440399
+478,Mauritania,2019,Male,60.156841
+458,Malaysia,2019,Total,65.65654
+516,Namibia,2019,Female,58.623219
+246,Finland,2019,Female,72.028923
+250,France,2019,Total,72.083641
+583,Micronesia (Federated States of),2019,Male,54.395229
+266,Gabon,2019,Female,59.333389
+266,Gabon,2019,Male,55.990749
+454,Malawi,2019,Male,55.093681
+516,Namibia,2019,Total,56.055229
+558,Nicaragua,2019,Female,67.210136
+578,Norway,2019,Female,71.638367
+524,Nepal,2019,Female,62.083019
+516,Namibia,2019,Male,53.404621
+562,Niger,2019,Total,55.52364
+566,Nigeria,2019,Female,54.894291
+558,Nicaragua,2019,Male,63.65913
+528,Netherlands (Kingdom of the),2019,Male,71.347847
+458,Malaysia,2019,Female,66.938423
+562,Niger,2019,Male,55.27869
+558,Nicaragua,2019,Total,65.460663
+528,Netherlands (Kingdom of the),2019,Female,71.502197
+578,Norway,2019,Male,71.046944
+826,United Kingdom of Great Britain and Northern Ireland,2019,Female,70.618103
+268,Georgia,2019,Female,67.91465
+324,Guinea,2019,Total,53.320061
+1,World,2019,Female,64.907623
+624,Guinea-Bissau,2019,Male,51.075081
+554,New Zealand,2019,Male,69.642548
+586,Pakistan,2019,Female,56.82819
+591,Panama,2019,Female,70.035179
+608,Philippines,2019,Total,61.998131
+598,Papua New Guinea,2019,Total,57.078259
+512,Oman,2019,Male,64.511559
+586,Pakistan,2019,Total,56.866589
+586,Pakistan,2019,Male,56.909
+591,Panama,2019,Total,68.683296
+591,Panama,2019,Male,67.391747
+598,Papua New Guinea,2019,Female,58.063591
+616,Poland,2019,Total,68.663277
+616,Poland,2019,Female,71.325073
+616,Poland,2019,Male,65.938942
+408,Democratic People's Republic of Korea,2019,Total,65.009171
+554,New Zealand,2019,Total,70.235313
+512,Oman,2019,Total,64.6763
+604,Peru,2019,Total,69.496262
+608,Philippines,2019,Female,63.942699
+608,Philippines,2019,Male,60.142979
+300,Greece,2019,Female,71.866364
+308,Grenada,2019,Female,65.357368
+320,Guatemala,2019,Female,64.121063
+328,Guyana,2019,Female,59.739269
+328,Guyana,2019,Male,55.051201
+598,Papua New Guinea,2019,Male,56.161572
+620,Portugal,2019,Male,69.573303
+600,Paraguay,2019,Female,67.320999
+643,Russian Federation,2019,Female,67.527473
+646,Rwanda,2019,Total,60.20512
+408,Democratic People's Republic of Korea,2019,Female,66.578613
+620,Portugal,2019,Female,72.2491
+600,Paraguay,2019,Total,65.801918
+634,Qatar,2019,Total,67.0616
+634,Qatar,2019,Male,68.114647
+191,Croatia,2019,Female,70.460327
+332,Haiti,2019,Total,55.804619
+360,Indonesia,2019,Total,62.831409
+356,India,2019,Total,60.334042
+356,India,2019,Female,60.388561
+372,Ireland,2019,Total,71.074509
+372,Ireland,2019,Female,71.432083
+364,Iran (Islamic Republic of),2019,Total,66.256813
+352,Iceland,2019,Total,71.980507
+388,Jamaica,2019,Female,67.254807
+408,Democratic People's Republic of Korea,2019,Male,63.297001
+620,Portugal,2019,Total,70.960243
+634,Qatar,2019,Female,65.064072
+682,Saudi Arabia,2019,Total,64.017563
+682,Saudi Arabia,2019,Female,64.362999
+682,Saudi Arabia,2019,Male,63.780022
+729,Sudan,2019,Male,59.561241
+90,Solomon Islands,2019,Total,57.759312
+222,El Salvador,2019,Female,67.823837
+688,Serbia,2019,Female,68.39077
+400,Jordan,2019,Female,67.168861
+400,Jordan,2019,Male,68.05397
+392,Japan,2019,Total,74.093758
+398,Kazakhstan,2019,Female,67.392303
+404,Kenya,2019,Male,56.410412
+955,South-East Asia,2019,Total,61.46162
+955,South-East Asia,2019,Male,61.071369
+686,Senegal,2019,Total,59.36618
+702,Singapore,2019,Male,72.392441
+222,El Salvador,2019,Male,61.64946
+706,Somalia,2019,Total,49.717361
+706,Somalia,2019,Female,51.308731
+728,South Sudan,2019,Female,54.470772
+703,Slovakia,2019,Total,68.536247
+703,Slovakia,2019,Male,66.16124
+678,Sao Tome and Principe,2019,Total,61.59507
+740,Suriname,2019,Female,64.160927
+690,Seychelles,2019,Female,66.434692
+760,Syrian Arab Republic,2019,Total,62.866299
+760,Syrian Arab Republic,2019,Male,62.481541
+705,Slovenia,2019,Male,69.013977
+752,Sweden,2019,Total,71.911552
+752,Sweden,2019,Male,71.691132
+748,Eswatini,2019,Total,50.056629
+690,Seychelles,2019,Total,64.007729
+642,Romania,2019,Female,69.443123
+642,Romania,2019,Male,64.299667
+643,Russian Federation,2019,Total,64.213814
+646,Rwanda,2019,Male,58.958778
+686,Senegal,2019,Male,58.789879
+694,Sierra Leone,2019,Total,52.91975
+694,Sierra Leone,2019,Male,52.519051
+222,El Salvador,2019,Total,64.871017
+706,Somalia,2019,Male,48.315411
+688,Serbia,2019,Total,66.879822
+688,Serbia,2019,Male,65.361427
+728,South Sudan,2019,Total,53.658779
+728,South Sudan,2019,Male,52.87735
+740,Suriname,2019,Total,62.391338
+740,Suriname,2019,Male,60.71859
+116,Cambodia,2019,Female,63.02607
+296,Kiribati,2019,Female,54.85363
+414,Kuwait,2019,Female,71.094452
+418,Lao People's Democratic Republic,2019,Male,59.199421
+430,Liberia,2019,Female,54.978539
+760,Syrian Arab Republic,2019,Female,63.31588
+764,Thailand,2019,Female,70.601723
+764,Thailand,2019,Male,65.925346
+762,Tajikistan,2019,Male,60.905128
+795,Turkmenistan,2019,Total,62.111622
+703,Slovakia,2019,Female,70.756943
+752,Sweden,2019,Female,72.107178
+148,Chad,2019,Total,52.01738
+148,Chad,2019,Male,51.284031
+768,Togo,2019,Male,54.696339
+430,Liberia,2019,Male,54.858898
+144,Sri Lanka,2019,Female,68.966164
+426,Lesotho,2019,Male,42.3148
+440,Lithuania,2019,Male,63.44976
+504,Morocco,2019,Female,63.702469
+776,Tonga,2019,Total,64.010262
+780,Trinidad and Tobago,2019,Male,63.981602
+788,Tunisia,2019,Male,66.089249
+792,Türkiye,2019,Female,68.955063
+792,Türkiye,2019,Male,67.805473
+768,Togo,2019,Female,57.801498
+795,Turkmenistan,2019,Male,59.9263
+776,Tonga,2019,Female,65.505943
+780,Trinidad and Tobago,2019,Female,68.609657
+788,Tunisia,2019,Female,67.69368
+764,Thailand,2019,Total,68.257858
+762,Tajikistan,2019,Total,62.006721
+795,Turkmenistan,2019,Female,64.266327
+626,Timor-Leste,2019,Male,59.803299
+788,Tunisia,2019,Total,66.890137
+498,Republic of Moldova,2019,Total,64.538841
+498,Republic of Moldova,2019,Male,61.875961
+450,Madagascar,2019,Male,56.881561
+484,Mexico,2019,Female,67.227211
+484,Mexico,2019,Male,64.27729
+834,United Republic of Tanzania,2019,Male,57.62463
+800,Uganda,2019,Total,58.207359
+800,Uganda,2019,Male,56.04528
+804,Ukraine,2019,Total,64.304153
+858,Uruguay,2019,Total,67.509239
+792,Türkiye,2019,Total,68.414597
+840,United States of America,2019,Male,65.214233
+670,Saint Vincent and the Grenadines,2019,Male,62.930759
+862,Venezuela (Bolivarian Republic of),2019,Female,67.102638
+704,Viet Nam,2019,Female,68.283783
+858,Uruguay,2019,Male,65.401222
+840,United States of America,2019,Female,67.024269
+860,Uzbekistan,2019,Total,64.680038
+860,Uzbekistan,2019,Male,63.53616
+670,Saint Vincent and the Grenadines,2019,Total,63.96999
+807,North Macedonia,2019,Total,66.143677
+466,Mali,2019,Female,54.45554
+470,Malta,2019,Total,71.458519
+499,Montenegro,2019,Total,66.974167
+499,Montenegro,2019,Female,68.741493
+834,United Republic of Tanzania,2019,Total,58.460041
+860,Uzbekistan,2019,Female,65.798248
+862,Venezuela (Bolivarian Republic of),2019,Total,64.43692
+862,Venezuela (Bolivarian Republic of),2019,Male,61.89024
+911,Low-income economies,2019,Total,56.681419
+508,Mozambique,2019,Total,50.35741
+508,Mozambique,2019,Male,47.90213
+478,Mauritania,2019,Total,59.763199
+480,Mauritius,2019,Total,63.937149
+480,Mauritius,2019,Female,65.949989
+704,Viet Nam,2019,Male,62.42881
+912,Lower-middle-income economies,2019,Female,60.62011
+914,Upper-middle-income economies,2019,Total,67.006157
+914,Upper-middle-income economies,2019,Male,65.46843
+887,Yemen,2019,Female,58.17025
+910,High-income economies,2019,Female,70.937508
+910,High-income economies,2019,Male,68.701752
+911,Low-income economies,2019,Male,55.655231
+958,Western Pacific,2019,Female,70.23999
+958,Western Pacific,2019,Male,67.037643
+710,South Africa,2019,Female,57.694469
+894,Zambia,2019,Female,56.311939
+894,Zambia,2019,Male,52.497711
+716,Zimbabwe,2019,Total,53.065441
+716,Zimbabwe,2019,Female,54.804821
+882,Samoa,2019,Male,61.794949
+887,Yemen,2019,Total,57.531109
+894,Zambia,2019,Total,54.404091
+912,Lower-middle-income economies,2019,Male,59.32832
+958,Western Pacific,2019,Total,68.569023
+882,Samoa,2019,Female,62.51302
+710,South Africa,2019,Total,56.15329
+710,South Africa,2019,Male,54.58585
+716,Zimbabwe,2019,Male,51.20607
+454,Malawi,2019,Total,57.05909
+458,Malaysia,2019,Male,64.504959
+562,Niger,2019,Female,55.80838
+566,Nigeria,2019,Total,54.393349
+566,Nigeria,2019,Male,53.91457
+528,Netherlands (Kingdom of the),2019,Total,71.435143
+578,Norway,2019,Total,71.362381
+524,Nepal,2019,Total,61.341991
+524,Nepal,2019,Male,60.632141
+554,New Zealand,2019,Female,70.820541
+512,Oman,2019,Female,64.513168
+604,Peru,2019,Female,69.784981
+604,Peru,2019,Male,69.208992
+600,Paraguay,2019,Male,64.451134
+642,Romania,2019,Total,66.849693
+643,Russian Federation,2019,Male,60.69772
+646,Rwanda,2019,Female,61.40834
+729,Sudan,2019,Total,59.913109
+729,Sudan,2019,Female,60.280258
+955,South-East Asia,2019,Female,61.873322
+686,Senegal,2019,Female,59.90139
+702,Singapore,2019,Total,73.551643
+702,Singapore,2019,Female,74.715889
+90,Solomon Islands,2019,Female,59.137718
+90,Solomon Islands,2019,Male,56.50758
+694,Sierra Leone,2019,Female,53.292339
+678,Sao Tome and Principe,2019,Female,62.212372
+678,Sao Tome and Principe,2019,Male,60.944012
+705,Slovenia,2019,Total,70.739662
+705,Slovenia,2019,Female,72.478439
+748,Eswatini,2019,Female,53.84827
+748,Eswatini,2019,Male,47.071419
+690,Seychelles,2019,Male,61.863621
+148,Chad,2019,Female,52.762779
+768,Togo,2019,Total,56.187832
+762,Tajikistan,2019,Female,63.191841
+626,Timor-Leste,2019,Total,60.885448
+626,Timor-Leste,2019,Female,62.027969
+776,Tonga,2019,Male,62.680321
+780,Trinidad and Tobago,2019,Total,66.227798
+834,United Republic of Tanzania,2019,Female,59.25729
+800,Uganda,2019,Female,60.353001
+804,Ukraine,2019,Female,67.838242
+804,Ukraine,2019,Male,60.598999
+858,Uruguay,2019,Female,69.510437
+840,United States of America,2019,Total,66.118263
+670,Saint Vincent and the Grenadines,2019,Female,65.139587
+704,Viet Nam,2019,Total,65.29554
+548,Vanuatu,2019,Total,57.82642
+548,Vanuatu,2019,Female,59.441502
+548,Vanuatu,2019,Male,56.39222
+910,High-income economies,2019,Total,69.832619
+911,Low-income economies,2019,Female,57.705811
+912,Lower-middle-income economies,2019,Total,59.95649
+914,Upper-middle-income economies,2019,Female,68.622459
+882,Samoa,2019,Total,62.130138
+887,Yemen,2019,Male,56.905949
